@@ -1,0 +1,4823 @@
+check query_id between /home/daemonn/Desktop/Uni/WIR/hw2/mio.txt and /home/daemonn/Desktop/Uni/WIR/hw2/parte2.txt
+
+
+False
+sono uguali inizio dal primo al secondo...
+dal file piu piccolo al piu grande
+[181, 0.0032]
+Non e presente
+[98, 0.0028]
+Non e presente
+[172, 0.0028]
+Non e presente
+[1, 0.0028]
+Non e presente
+[79, 0.0026]
+Non e presente
+[7, 0.0026]
+Non e presente
+[258, 0.0025]
+Non e presente
+[168, 0.0025]
+Non e presente
+[173, 0.0025]
+Non e presente
+[195, 0.0025]
+Non e presente
+[117, 0.0025]
+Non e presente
+[96, 0.0024]
+Non e presente
+[222, 0.0024]
+Non e presente
+[288, 0.0024]
+Non e presente
+[22, 0.0024]
+Non e presente
+[202, 0.0024]
+Non e presente
+[234, 0.0023]
+Non e presente
+[176, 0.0023]
+Non e presente
+[183, 0.0023]
+Non e presente
+[28, 0.0023]
+Non e presente
+[82, 0.0023]
+Non e presente
+[89, 0.0023]
+Non e presente
+[151, 0.0023]
+Non e presente
+[97, 0.0022]
+Non e presente
+[135, 0.0022]
+Non e presente
+[228, 0.0021]
+Non e presente
+[153, 0.0021]
+Non e presente
+[568, 0.0021]
+Non e presente
+[144, 0.0021]
+Non e presente
+[11, 0.002]
+Non e presente
+[118, 0.002]
+Non e presente
+[71, 0.002]
+Non e presente
+[95, 0.002]
+Non e presente
+[185, 0.002]
+Non e presente
+[9, 0.0019]
+Non e presente
+[300, 0.0019]
+Non e presente
+[546, 0.0019]
+Non e presente
+[483, 0.0019]
+Non e presente
+[111, 0.0019]
+Non e presente
+[496, 0.0019]
+Non e presente
+[180, 0.0019]
+Non e presente
+[742, 0.0018]
+Non e presente
+[276, 0.0018]
+Non e presente
+[200, 0.0018]
+Non e presente
+[230, 0.0018]
+Non e presente
+[313, 0.0018]
+Non e presente
+[588, 0.0018]
+Non e presente
+[175, 0.0018]
+Non e presente
+[235, 0.0017]
+Non e presente
+[209, 0.0017]
+Non e presente
+[125, 0.0017]
+Non e presente
+[367, 0.0017]
+Non e presente
+[203, 0.0017]
+Non e presente
+[427, 0.0017]
+Non e presente
+[603, 0.0017]
+Non e presente
+[433, 0.0017]
+Non e presente
+[99, 0.0017]
+Non e presente
+[218, 0.0016]
+Non e presente
+[226, 0.0016]
+Non e presente
+[402, 0.0016]
+Non e presente
+[475, 0.0016]
+Non e presente
+[273, 0.0016]
+Non e presente
+[684, 0.0016]
+Non e presente
+[432, 0.0016]
+Non e presente
+[471, 0.0016]
+Non e presente
+[748, 0.0016]
+Non e presente
+[154, 0.0016]
+Non e presente
+[302, 0.0016]
+Non e presente
+[550, 0.0016]
+Non e presente
+[23, 0.0016]
+Non e presente
+[597, 0.0015]
+Non e presente
+[443, 0.0015]
+Non e presente
+[651, 0.0015]
+Non e presente
+[328, 0.0015]
+Non e presente
+[227, 0.0015]
+Non e presente
+[479, 0.0015]
+Non e presente
+[31, 0.0015]
+Non e presente
+[83, 0.0015]
+Non e presente
+[582, 0.0015]
+Non e presente
+[431, 0.0014]
+Non e presente
+[559, 0.0014]
+Non e presente
+[250, 0.0014]
+Non e presente
+[511, 0.0014]
+Non e presente
+[268, 0.0014]
+Non e presente
+[199, 0.0014]
+Non e presente
+[231, 0.0014]
+Non e presente
+[13, 0.0014]
+Non e presente
+[91, 0.0014]
+Non e presente
+[274, 0.0014]
+Non e presente
+[42, 0.0014]
+Non e presente
+[164, 0.0014]
+Non e presente
+[68, 0.0014]
+Non e presente
+[515, 0.0014]
+Non e presente
+[147, 0.0014]
+Non e presente
+[845, 0.0014]
+Non e presente
+[55, 0.0014]
+Non e presente
+[591, 0.0013]
+Non e presente
+[87, 0.0013]
+Non e presente
+[2, 0.0013]
+Non e presente
+[411, 0.0013]
+Non e presente
+[73, 0.0013]
+Non e presente
+[472, 0.0013]
+Non e presente
+[498, 0.0013]
+Non e presente
+[156, 0.0013]
+Non e presente
+[654, 0.0013]
+Non e presente
+[241, 0.0013]
+Non e presente
+[523, 0.0013]
+Non e presente
+[124, 0.0013]
+Non e presente
+[86, 0.0013]
+Non e presente
+[298, 0.0013]
+Non e presente
+[462, 0.0013]
+Non e presente
+[62, 0.0013]
+Non e presente
+[410, 0.0013]
+Non e presente
+[53, 0.0013]
+Non e presente
+[333, 0.0013]
+Non e presente
+[223, 0.0013]
+Non e presente
+[685, 0.0013]
+Non e presente
+[746, 0.0012]
+Non e presente
+[418, 0.0012]
+Non e presente
+[233, 0.0012]
+Non e presente
+[240, 0.0012]
+Non e presente
+[245, 0.0012]
+Non e presente
+[38, 0.0012]
+Non e presente
+[217, 0.0012]
+Non e presente
+[177, 0.0012]
+Non e presente
+[81, 0.0012]
+Non e presente
+[283, 0.0012]
+Non e presente
+[29, 0.0012]
+Non e presente
+[678, 0.0012]
+Non e presente
+[271, 0.0012]
+Non e presente
+[65, 0.0012]
+Non e presente
+[380, 0.0012]
+Non e presente
+[428, 0.0012]
+Non e presente
+[447, 0.0012]
+Non e presente
+[281, 0.0012]
+Non e presente
+[198, 0.0012]
+Non e presente
+[455, 0.0012]
+Non e presente
+[705, 0.0012]
+Non e presente
+[323, 0.0012]
+Non e presente
+[252, 0.0012]
+Non e presente
+[526, 0.0012]
+Non e presente
+[470, 0.0012]
+Non e presente
+[54, 0.0011]
+Non e presente
+[484, 0.0011]
+Non e presente
+[322, 0.0011]
+Non e presente
+[219, 0.0011]
+Non e presente
+[1028, 0.0011]
+Non e presente
+[521, 0.0011]
+Non e presente
+[150, 0.0011]
+Non e presente
+[520, 0.0011]
+Non e presente
+[272, 0.0011]
+Non e presente
+[184, 0.0011]
+Non e presente
+[190, 0.0011]
+Non e presente
+[663, 0.0011]
+Non e presente
+[178, 0.0011]
+Non e presente
+[679, 0.0011]
+Non e presente
+[504, 0.0011]
+Non e presente
+[67, 0.0011]
+Non e presente
+[449, 0.0011]
+Non e presente
+[232, 0.0011]
+Non e presente
+[48, 0.0011]
+Non e presente
+[747, 0.0011]
+Non e presente
+[382, 0.0011]
+Non e presente
+[1016, 0.0011]
+Non e presente
+[473, 0.0011]
+Non e presente
+[92, 0.0011]
+Non e presente
+[170, 0.0011]
+Non e presente
+[510, 0.0011]
+Non e presente
+[1047, 0.0011]
+Non e presente
+[528, 0.001]
+Non e presente
+[549, 0.001]
+Non e presente
+[214, 0.001]
+Non e presente
+[421, 0.001]
+Non e presente
+[554, 0.001]
+Non e presente
+[709, 0.001]
+Non e presente
+[192, 0.001]
+Non e presente
+[155, 0.001]
+Non e presente
+[578, 0.001]
+Non e presente
+[293, 0.001]
+Non e presente
+[751, 0.001]
+Non e presente
+[90, 0.001]
+Non e presente
+[693, 0.001]
+Non e presente
+[291, 0.001]
+Non e presente
+[715, 0.001]
+Non e presente
+[436, 0.001]
+Non e presente
+[317, 0.001]
+Non e presente
+[109, 0.001]
+Non e presente
+[159, 0.001]
+Non e presente
+[576, 0.001]
+Non e presente
+[665, 0.001]
+Non e presente
+[755, 0.001]
+Non e presente
+[249, 0.001]
+Non e presente
+[636, 0.001]
+Non e presente
+[148, 0.001]
+Non e presente
+[642, 0.001]
+Non e presente
+[33, 0.001]
+Non e presente
+[506, 0.001]
+Non e presente
+[756, 0.001]
+Non e presente
+[123, 0.001]
+Non e presente
+[699, 0.001]
+Non e presente
+[386, 0.001]
+Non e presente
+[762, 0.001]
+Non e presente
+[399, 0.001]
+Non e presente
+[122, 0.0009]
+Non e presente
+[169, 0.0009]
+Non e presente
+[136, 0.0009]
+Non e presente
+[44, 0.0009]
+Non e presente
+[425, 0.0009]
+Non e presente
+[129, 0.0009]
+Non e presente
+[131, 0.0009]
+Non e presente
+[52, 0.0009]
+Non e presente
+[729, 0.0009]
+Non e presente
+[51, 0.0009]
+Non e presente
+[448, 0.0009]
+Non e presente
+[596, 0.0009]
+Non e presente
+[430, 0.0009]
+Non e presente
+[93, 0.0009]
+Non e presente
+[319, 0.0009]
+Non e presente
+[259, 0.0009]
+Non e presente
+[518, 0.0009]
+Non e presente
+[928, 0.0009]
+Non e presente
+[116, 0.0009]
+Non e presente
+[39, 0.0009]
+Non e presente
+[507, 0.0009]
+Non e presente
+[658, 0.0009]
+Non e presente
+[212, 0.0009]
+Non e presente
+[163, 0.0009]
+Non e presente
+[429, 0.0009]
+Non e presente
+[17, 0.0009]
+Non e presente
+[673, 0.0009]
+Non e presente
+[478, 0.0009]
+Non e presente
+[781, 0.0009]
+Non e presente
+[290, 0.0009]
+Non e presente
+[420, 0.0009]
+Non e presente
+[225, 0.0009]
+Non e presente
+[652, 0.0009]
+Non e presente
+[246, 0.0009]
+Non e presente
+[1074, 0.0009]
+Non e presente
+[417, 0.0009]
+Non e presente
+[5, 0.0008]
+Non e presente
+[720, 0.0008]
+Non e presente
+[465, 0.0008]
+Non e presente
+[529, 0.0008]
+Non e presente
+[412, 0.0008]
+Non e presente
+[347, 0.0008]
+Non e presente
+[3, 0.0008]
+Non e presente
+[625, 0.0008]
+Non e presente
+[152, 0.0008]
+Non e presente
+[141, 0.0008]
+Non e presente
+[260, 0.0008]
+Non e presente
+[820, 0.0008]
+Non e presente
+[327, 0.0008]
+Non e presente
+[710, 0.0008]
+Non e presente
+[270, 0.0008]
+Non e presente
+[201, 0.0008]
+Non e presente
+[1039, 0.0008]
+Non e presente
+[1011, 0.0008]
+Non e presente
+[831, 0.0008]
+Non e presente
+[461, 0.0008]
+Non e presente
+[32, 0.0008]
+Non e presente
+[640, 0.0008]
+Non e presente
+[80, 0.0008]
+Non e presente
+[778, 0.0008]
+Non e presente
+[661, 0.0008]
+Non e presente
+[662, 0.0008]
+Non e presente
+[627, 0.0008]
+Non e presente
+[358, 0.0008]
+Non e presente
+[408, 0.0008]
+Non e presente
+[584, 0.0008]
+Non e presente
+[101, 0.0008]
+Non e presente
+[530, 0.0008]
+Non e presente
+[477, 0.0008]
+Non e presente
+[316, 0.0008]
+Non e presente
+[558, 0.0008]
+Non e presente
+[780, 0.0008]
+Non e presente
+[21, 0.0008]
+Non e presente
+[387, 0.0008]
+Non e presente
+[569, 0.0008]
+Non e presente
+[724, 0.0008]
+Non e presente
+[310, 0.0008]
+Non e presente
+[823, 0.0008]
+Non e presente
+[736, 0.0008]
+Non e presente
+[926, 0.0008]
+Non e presente
+[1101, 0.0008]
+Non e presente
+[59, 0.0008]
+Non e presente
+[919, 0.0008]
+Non e presente
+[346, 0.0007]
+Non e presente
+[519, 0.0007]
+Non e presente
+[10, 0.0007]
+Non e presente
+[304, 0.0007]
+Non e presente
+[469, 0.0007]
+Non e presente
+[825, 0.0007]
+Non e presente
+[392, 0.0007]
+Non e presente
+[790, 0.0007]
+Non e presente
+[959, 0.0007]
+Non e presente
+[650, 0.0007]
+Non e presente
+[371, 0.0007]
+Non e presente
+[647, 0.0007]
+Non e presente
+[525, 0.0007]
+Non e presente
+[468, 0.0007]
+Non e presente
+[332, 0.0007]
+Non e presente
+[243, 0.0007]
+Non e presente
+[826, 0.0007]
+Non e presente
+[491, 0.0007]
+Non e presente
+[303, 0.0007]
+Non e presente
+[45, 0.0007]
+Non e presente
+[505, 0.0007]
+Non e presente
+[325, 0.0007]
+Non e presente
+[1035, 0.0007]
+Non e presente
+[616, 0.0007]
+Non e presente
+[343, 0.0007]
+Non e presente
+[727, 0.0007]
+Non e presente
+[128, 0.0007]
+Non e presente
+[463, 0.0007]
+Non e presente
+[604, 0.0007]
+Non e presente
+[690, 0.0007]
+Non e presente
+[879, 0.0007]
+Non e presente
+[452, 0.0007]
+Non e presente
+[324, 0.0007]
+Non e presente
+[949, 0.0007]
+Non e presente
+[488, 0.0007]
+Non e presente
+[930, 0.0007]
+Non e presente
+[391, 0.0007]
+Non e presente
+[553, 0.0007]
+Non e presente
+[939, 0.0007]
+Non e presente
+[416, 0.0007]
+Non e presente
+[497, 0.0007]
+Non e presente
+[707, 0.0007]
+Non e presente
+[633, 0.0007]
+Non e presente
+[280, 0.0007]
+Non e presente
+[434, 0.0007]
+Non e presente
+[76, 0.0007]
+Non e presente
+[1041, 0.0007]
+Non e presente
+[969, 0.0007]
+Non e presente
+[207, 0.0007]
+Non e presente
+[606, 0.0007]
+Non e presente
+[696, 0.0006]
+Non e presente
+[561, 0.0006]
+Non e presente
+[145, 0.0006]
+Non e presente
+[770, 0.0006]
+Non e presente
+[737, 0.0006]
+Non e presente
+[581, 0.0006]
+Non e presente
+[607, 0.0006]
+Non e presente
+[744, 0.0006]
+Non e presente
+[264, 0.0006]
+Non e presente
+[924, 0.0006]
+Non e presente
+[516, 0.0006]
+Non e presente
+[672, 0.0006]
+Non e presente
+[717, 0.0006]
+Non e presente
+[171, 0.0006]
+Non e presente
+[126, 0.0006]
+Non e presente
+[716, 0.0006]
+Non e presente
+[895, 0.0006]
+Non e presente
+[502, 0.0006]
+Non e presente
+[686, 0.0006]
+Non e presente
+[27, 0.0006]
+Non e presente
+[702, 0.0006]
+Non e presente
+[287, 0.0006]
+Non e presente
+[513, 0.0006]
+Non e presente
+[946, 0.0006]
+Non e presente
+[242, 0.0006]
+Non e presente
+[61, 0.0006]
+Non e presente
+[721, 0.0006]
+Non e presente
+[139, 0.0006]
+Non e presente
+[619, 0.0006]
+Non e presente
+[499, 0.0006]
+Non e presente
+[1073, 0.0006]
+Non e presente
+[450, 0.0006]
+Non e presente
+[60, 0.0006]
+Non e presente
+[609, 0.0006]
+Non e presente
+[366, 0.0006]
+Non e presente
+[409, 0.0006]
+Non e presente
+[221, 0.0006]
+Non e presente
+[713, 0.0006]
+Non e presente
+[395, 0.0006]
+Non e presente
+[492, 0.0006]
+Non e presente
+[1119, 0.0006]
+Non e presente
+[649, 0.0006]
+Non e presente
+[544, 0.0006]
+Non e presente
+[942, 0.0006]
+Non e presente
+[676, 0.0006]
+Non e presente
+[292, 0.0006]
+Non e presente
+[120, 0.0006]
+Non e presente
+[20, 0.0006]
+Non e presente
+[106, 0.0006]
+Non e presente
+[570, 0.0006]
+Non e presente
+[855, 0.0006]
+Non e presente
+[493, 0.0006]
+Non e presente
+[632, 0.0006]
+Non e presente
+[277, 0.0006]
+Non e presente
+[849, 0.0006]
+Non e presente
+[541, 0.0006]
+Non e presente
+[338, 0.0006]
+Non e presente
+[487, 0.0006]
+Non e presente
+[542, 0.0006]
+Non e presente
+[675, 0.0006]
+Non e presente
+[789, 0.0006]
+Non e presente
+[189, 0.0006]
+Non e presente
+[728, 0.0006]
+Non e presente
+[102, 0.0006]
+Non e presente
+[552, 0.0006]
+Non e presente
+[614, 0.0006]
+Non e presente
+[806, 0.0006]
+Non e presente
+[494, 0.0006]
+Non e presente
+[108, 0.0006]
+Non e presente
+[206, 0.0006]
+Non e presente
+[331, 0.0006]
+Non e presente
+[1118, 0.0006]
+Non e presente
+[1135, 0.0006]
+Non e presente
+[466, 0.0005]
+Non e presente
+[486, 0.0005]
+Non e presente
+[467, 0.0005]
+Non e presente
+[602, 0.0005]
+Non e presente
+[495, 0.0005]
+Non e presente
+[1228, 0.0005]
+Non e presente
+[794, 0.0005]
+Non e presente
+[254, 0.0005]
+Non e presente
+[761, 0.0005]
+Non e presente
+[1046, 0.0005]
+Non e presente
+[871, 0.0005]
+Non e presente
+[365, 0.0005]
+Non e presente
+[615, 0.0005]
+Non e presente
+[512, 0.0005]
+Non e presente
+[931, 0.0005]
+Non e presente
+[955, 0.0005]
+Non e presente
+[562, 0.0005]
+Non e presente
+[674, 0.0005]
+Non e presente
+[295, 0.0005]
+Non e presente
+[824, 0.0005]
+Non e presente
+[489, 0.0005]
+Non e presente
+[441, 0.0005]
+Non e presente
+[956, 0.0005]
+Non e presente
+[810, 0.0005]
+Non e presente
+[165, 0.0005]
+Non e presente
+[220, 0.0005]
+Non e presente
+[166, 0.0005]
+Non e presente
+[671, 0.0005]
+Non e presente
+[689, 0.0005]
+Non e presente
+[114, 0.0005]
+Non e presente
+[43, 0.0005]
+Non e presente
+[772, 0.0005]
+Non e presente
+[1065, 0.0005]
+Non e presente
+[783, 0.0005]
+Non e presente
+[490, 0.0005]
+Non e presente
+[354, 0.0005]
+Non e presente
+[993, 0.0005]
+Non e presente
+[1091, 0.0005]
+Non e presente
+[741, 0.0005]
+Non e presente
+[413, 0.0005]
+Non e presente
+[802, 0.0005]
+Non e presente
+[363, 0.0005]
+Non e presente
+[577, 0.0005]
+Non e presente
+[731, 0.0005]
+Non e presente
+[444, 0.0005]
+Non e presente
+[379, 0.0005]
+Non e presente
+[923, 0.0005]
+Non e presente
+[1188, 0.0005]
+Non e presente
+[682, 0.0005]
+Non e presente
+[1221, 0.0005]
+Non e presente
+[664, 0.0005]
+Non e presente
+[595, 0.0005]
+Non e presente
+[921, 0.0005]
+Non e presente
+[1217, 0.0005]
+Non e presente
+[847, 0.0005]
+Non e presente
+[771, 0.0005]
+Non e presente
+[785, 0.0005]
+Non e presente
+[306, 0.0005]
+Non e presente
+[369, 0.0005]
+Non e presente
+[1009, 0.0005]
+Non e presente
+[1267, 0.0005]
+Non e presente
+[1210, 0.0005]
+Non e presente
+[840, 0.0005]
+Non e presente
+[833, 0.0005]
+Non e presente
+[951, 0.0005]
+Non e presente
+[262, 0.0005]
+Non e presente
+[977, 0.0005]
+Non e presente
+[583, 0.0005]
+Non e presente
+[585, 0.0005]
+Non e presente
+[765, 0.0005]
+Non e presente
+[622, 0.0004]
+Non e presente
+[769, 0.0004]
+Non e presente
+[589, 0.0004]
+Non e presente
+[373, 0.0004]
+Non e presente
+[1110, 0.0004]
+Non e presente
+[827, 0.0004]
+Non e presente
+[943, 0.0004]
+Non e presente
+[278, 0.0004]
+Non e presente
+[41, 0.0004]
+Non e presente
+[638, 0.0004]
+Non e presente
+[1098, 0.0004]
+Non e presente
+[687, 0.0004]
+Non e presente
+[873, 0.0004]
+Non e presente
+[19, 0.0004]
+Non e presente
+[723, 0.0004]
+Non e presente
+[1220, 0.0004]
+Non e presente
+[639, 0.0004]
+Non e presente
+[623, 0.0004]
+Non e presente
+[1139, 0.0004]
+Non e presente
+[78, 0.0004]
+Non e presente
+[1010, 0.0004]
+Non e presente
+[345, 0.0004]
+Non e presente
+[311, 0.0004]
+Non e presente
+[620, 0.0004]
+Non e presente
+[740, 0.0004]
+Non e presente
+[1079, 0.0004]
+Non e presente
+[236, 0.0004]
+Non e presente
+[364, 0.0004]
+Non e presente
+[299, 0.0004]
+Non e presente
+[586, 0.0004]
+Non e presente
+[656, 0.0004]
+Non e presente
+[988, 0.0004]
+Non e presente
+[670, 0.0004]
+Non e presente
+[813, 0.0004]
+Non e presente
+[30, 0.0004]
+Non e presente
+[1017, 0.0004]
+Non e presente
+[1090, 0.0004]
+Non e presente
+[535, 0.0004]
+Non e presente
+[637, 0.0004]
+Non e presente
+[571, 0.0004]
+Non e presente
+[945, 0.0004]
+Non e presente
+[57, 0.0004]
+Non e presente
+[644, 0.0004]
+Non e presente
+[646, 0.0004]
+Non e presente
+[611, 0.0004]
+Non e presente
+[843, 0.0004]
+Non e presente
+[572, 0.0004]
+Non e presente
+[940, 0.0004]
+Non e presente
+[224, 0.0004]
+Non e presente
+[841, 0.0004]
+Non e presente
+[456, 0.0004]
+Non e presente
+[779, 0.0004]
+Non e presente
+[406, 0.0004]
+Non e presente
+[694, 0.0004]
+Non e presente
+[856, 0.0004]
+Non e presente
+[537, 0.0004]
+Non e presente
+[975, 0.0004]
+Non e presente
+[808, 0.0004]
+Non e presente
+[297, 0.0004]
+Non e presente
+[407, 0.0004]
+Non e presente
+[774, 0.0004]
+Non e presente
+[844, 0.0004]
+Non e presente
+[890, 0.0004]
+Non e presente
+[952, 0.0004]
+Non e presente
+[630, 0.0004]
+Non e presente
+[929, 0.0004]
+Non e presente
+[372, 0.0004]
+Non e presente
+[760, 0.0004]
+Non e presente
+[719, 0.0004]
+Non e presente
+[1197, 0.0004]
+Non e presente
+[963, 0.0004]
+Non e presente
+[334, 0.0004]
+Non e presente
+[1007, 0.0004]
+Non e presente
+[388, 0.0004]
+Non e presente
+[972, 0.0004]
+Non e presente
+[1021, 0.0004]
+Non e presente
+[875, 0.0004]
+Non e presente
+[612, 0.0004]
+Non e presente
+[653, 0.0004]
+Non e presente
+[805, 0.0004]
+Non e presente
+[775, 0.0004]
+Non e presente
+[251, 0.0004]
+Non e presente
+[500, 0.0004]
+Non e presente
+[846, 0.0004]
+Non e presente
+[464, 0.0004]
+Non e presente
+[1042, 0.0004]
+Non e presente
+[961, 0.0004]
+Non e presente
+[797, 0.0004]
+Non e presente
+[426, 0.0004]
+Non e presente
+[1020, 0.0004]
+Non e presente
+[110, 0.0003]
+Non e presente
+[608, 0.0003]
+Non e presente
+[573, 0.0003]
+Non e presente
+[734, 0.0003]
+Non e presente
+[932, 0.0003]
+Non e presente
+[743, 0.0003]
+Non e presente
+[46, 0.0003]
+Non e presente
+[547, 0.0003]
+Non e presente
+[887, 0.0003]
+Non e presente
+[1244, 0.0003]
+Non e presente
+[567, 0.0003]
+Non e presente
+[971, 0.0003]
+Non e presente
+[107, 0.0003]
+Non e presente
+[1134, 0.0003]
+Non e presente
+[244, 0.0003]
+Non e presente
+[522, 0.0003]
+Non e presente
+[1133, 0.0003]
+Non e presente
+[1142, 0.0003]
+Non e presente
+[415, 0.0003]
+Non e presente
+[1089, 0.0003]
+Non e presente
+[1170, 0.0003]
+Non e presente
+[819, 0.0003]
+Non e presente
+[1136, 0.0003]
+Non e presente
+[1018, 0.0003]
+Non e presente
+[383, 0.0003]
+Non e presente
+[1194, 0.0003]
+Non e presente
+[738, 0.0003]
+Non e presente
+[1411, 0.0003]
+Non e presente
+[1226, 0.0003]
+Non e presente
+[538, 0.0003]
+Non e presente
+[966, 0.0003]
+Non e presente
+[1109, 0.0003]
+Non e presente
+[1045, 0.0003]
+Non e presente
+[922, 0.0003]
+Non e presente
+[1067, 0.0003]
+Non e presente
+[749, 0.0003]
+Non e presente
+[800, 0.0003]
+Non e presente
+[979, 0.0003]
+Non e presente
+[563, 0.0003]
+Non e presente
+[342, 0.0003]
+Non e presente
+[398, 0.0003]
+Non e presente
+[368, 0.0003]
+Non e presente
+[580, 0.0003]
+Non e presente
+[16, 0.0003]
+Non e presente
+[1070, 0.0003]
+Non e presente
+[1215, 0.0003]
+Non e presente
+[1053, 0.0003]
+Non e presente
+[1051, 0.0003]
+Non e presente
+[1008, 0.0003]
+Non e presente
+[1013, 0.0003]
+Non e presente
+[880, 0.0003]
+Non e presente
+[370, 0.0003]
+Non e presente
+[837, 0.0003]
+Non e presente
+[389, 0.0003]
+Non e presente
+[984, 0.0003]
+Non e presente
+[613, 0.0003]
+Non e presente
+[950, 0.0003]
+Non e presente
+[564, 0.0003]
+Non e presente
+[641, 0.0003]
+Non e presente
+[1222, 0.0003]
+Non e presente
+[974, 0.0003]
+Non e presente
+[1126, 0.0003]
+Non e presente
+[1113, 0.0003]
+Non e presente
+[886, 0.0003]
+Non e presente
+[877, 0.0003]
+Non e presente
+[925, 0.0003]
+Non e presente
+[645, 0.0003]
+Non e presente
+[375, 0.0003]
+Non e presente
+[1147, 0.0003]
+Non e presente
+[754, 0.0003]
+Non e presente
+[1060, 0.0003]
+Non e presente
+[948, 0.0003]
+Non e presente
+[624, 0.0003]
+Non e presente
+[836, 0.0003]
+Non e presente
+[330, 0.0003]
+Non e presente
+[902, 0.0003]
+Non e presente
+[1019, 0.0003]
+Non e presente
+[1037, 0.0003]
+Non e presente
+[953, 0.0003]
+Non e presente
+[896, 0.0003]
+Non e presente
+[1033, 0.0003]
+Non e presente
+[1218, 0.0003]
+Non e presente
+[876, 0.0003]
+Non e presente
+[683, 0.0003]
+Non e presente
+[764, 0.0003]
+Non e presente
+[1208, 0.0003]
+Non e presente
+[344, 0.0003]
+Non e presente
+[1095, 0.0003]
+Non e presente
+[551, 0.0003]
+Non e presente
+[1168, 0.0003]
+Non e presente
+[355, 0.0003]
+Non e presente
+[960, 0.0003]
+Non e presente
+[752, 0.0003]
+Non e presente
+[900, 0.0003]
+Non e presente
+[539, 0.0003]
+Non e presente
+[1059, 0.0003]
+Non e presente
+[881, 0.0003]
+Non e presente
+[1407, 0.0003]
+Non e presente
+[1107, 0.0003]
+Non e presente
+[821, 0.0003]
+Non e presente
+[339, 0.0003]
+Non e presente
+[980, 0.0003]
+Non e presente
+[1006, 0.0003]
+Non e presente
+[1248, 0.0003]
+Non e presente
+[329, 0.0003]
+Non e presente
+[1132, 0.0003]
+Non e presente
+[1178, 0.0003]
+Non e presente
+[445, 0.0003]
+Non e presente
+[279, 0.0003]
+Non e presente
+[1036, 0.0003]
+Non e presente
+[336, 0.0003]
+Non e presente
+[818, 0.0003]
+Non e presente
+[1206, 0.0003]
+Non e presente
+[1231, 0.0003]
+Non e presente
+[829, 0.0003]
+Non e presente
+[965, 0.0003]
+Non e presente
+[601, 0.0003]
+Non e presente
+[1478, 0.0003]
+Non e presente
+[635, 0.0003]
+Non e presente
+[936, 0.0003]
+Non e presente
+[704, 0.0003]
+Non e presente
+[872, 0.0003]
+Non e presente
+[1157, 0.0003]
+Non e presente
+[874, 0.0003]
+Non e presente
+[1052, 0.0003]
+Non e presente
+[422, 0.0002]
+Non e presente
+[1078, 0.0002]
+Non e presente
+[565, 0.0002]
+Non e presente
+[834, 0.0002]
+Non e presente
+[1034, 0.0002]
+Non e presente
+[753, 0.0002]
+Non e presente
+[863, 0.0002]
+Non e presente
+[634, 0.0002]
+Non e presente
+[725, 0.0002]
+Non e presente
+[700, 0.0002]
+Non e presente
+[460, 0.0002]
+Non e presente
+[350, 0.0002]
+Non e presente
+[730, 0.0002]
+Non e presente
+[1284, 0.0002]
+Non e presente
+[1239, 0.0002]
+Non e presente
+[1129, 0.0002]
+Non e presente
+[149, 0.0002]
+Non e presente
+[1025, 0.0002]
+Non e presente
+[812, 0.0002]
+Non e presente
+[1103, 0.0002]
+Non e presente
+[1240, 0.0002]
+Non e presente
+[1153, 0.0002]
+Non e presente
+[801, 0.0002]
+Non e presente
+[261, 0.0002]
+Non e presente
+[1069, 0.0002]
+Non e presente
+[560, 0.0002]
+Non e presente
+[1115, 0.0002]
+Non e presente
+[978, 0.0002]
+Non e presente
+[1049, 0.0002]
+Non e presente
+[543, 0.0002]
+Non e presente
+[1232, 0.0002]
+Non e presente
+[1209, 0.0002]
+Non e presente
+[579, 0.0002]
+Non e presente
+[1311, 0.0002]
+Non e presente
+[962, 0.0002]
+Non e presente
+[816, 0.0002]
+Non e presente
+[878, 0.0002]
+Non e presente
+[1112, 0.0002]
+Non e presente
+[1140, 0.0002]
+Non e presente
+[1230, 0.0002]
+Non e presente
+[1286, 0.0002]
+Non e presente
+[997, 0.0002]
+Non e presente
+[688, 0.0002]
+Non e presente
+[1163, 0.0002]
+Non e presente
+[1203, 0.0002]
+Non e presente
+[1137, 0.0002]
+Non e presente
+[832, 0.0002]
+Non e presente
+[786, 0.0002]
+Non e presente
+[1093, 0.0002]
+Non e presente
+[6, 0.0002]
+Non e presente
+[400, 0.0002]
+Non e presente
+[1207, 0.0002]
+Non e presente
+[1149, 0.0002]
+Non e presente
+[1303, 0.0002]
+Non e presente
+[1005, 0.0002]
+Non e presente
+[1040, 0.0002]
+Non e presente
+[1061, 0.0002]
+Non e presente
+[1057, 0.0002]
+Non e presente
+[1219, 0.0002]
+Non e presente
+[680, 0.0002]
+Non e presente
+[266, 0.0002]
+Non e presente
+[557, 0.0002]
+Non e presente
+[703, 0.0002]
+Non e presente
+[1086, 0.0002]
+Non e presente
+[1054, 0.0002]
+Non e presente
+[1444, 0.0002]
+Non e presente
+[457, 0.0002]
+Non e presente
+[320, 0.0002]
+Non e presente
+[459, 0.0002]
+Non e presente
+[1185, 0.0002]
+Non e presente
+[1199, 0.0002]
+Non e presente
+[1058, 0.0002]
+Non e presente
+[758, 0.0002]
+Non e presente
+[453, 0.0002]
+Non e presente
+[36, 0.0002]
+Non e presente
+[882, 0.0002]
+Non e presente
+[84, 0.0002]
+Non e presente
+[773, 0.0002]
+Non e presente
+[1121, 0.0002]
+Non e presente
+[905, 0.0002]
+Non e presente
+[1258, 0.0002]
+Non e presente
+[574, 0.0002]
+Non e presente
+[733, 0.0002]
+Non e presente
+[130, 0.0002]
+Non e presente
+[904, 0.0002]
+Non e presente
+[1224, 0.0002]
+Non e presente
+[1245, 0.0002]
+Non e presente
+[349, 0.0002]
+Non e presente
+[986, 0.0002]
+Non e presente
+[1419, 0.0002]
+Non e presente
+[916, 0.0002]
+Non e presente
+[1152, 0.0002]
+Non e presente
+[811, 0.0002]
+Non e presente
+[1066, 0.0002]
+Non e presente
+[745, 0.0002]
+Non e presente
+[782, 0.0002]
+Non e presente
+[862, 0.0002]
+Non e presente
+[112, 0.0002]
+Non e presente
+[1421, 0.0002]
+Non e presente
+[1183, 0.0002]
+Non e presente
+[1182, 0.0002]
+Non e presente
+[854, 0.0002]
+Non e presente
+[995, 0.0002]
+Non e presente
+[454, 0.0002]
+Non e presente
+[1029, 0.0002]
+Non e presente
+[1071, 0.0002]
+Non e presente
+[1446, 0.0002]
+Non e presente
+[937, 0.0002]
+Non e presente
+[587, 0.0002]
+Non e presente
+[1022, 0.0002]
+Non e presente
+[998, 0.0002]
+Non e presente
+[1097, 0.0002]
+Non e presente
+[990, 0.0002]
+Non e presente
+[787, 0.0002]
+Non e presente
+[982, 0.0002]
+Non e presente
+[253, 0.0002]
+Non e presente
+[532, 0.0002]
+Non e presente
+[1166, 0.0002]
+Non e presente
+[617, 0.0002]
+Non e presente
+[1225, 0.0002]
+Non e presente
+[726, 0.0002]
+Non e presente
+[1518, 0.0002]
+Non e presente
+[377, 0.0002]
+Non e presente
+[853, 0.0002]
+Non e presente
+[590, 0.0002]
+Non e presente
+[556, 0.0002]
+Non e presente
+[362, 0.0002]
+Non e presente
+[1273, 0.0002]
+Non e presente
+[440, 0.0002]
+Non e presente
+[1401, 0.0002]
+Non e presente
+[348, 0.0002]
+Non e presente
+[1315, 0.0002]
+Non e presente
+[308, 0.0002]
+Non e presente
+[1297, 0.0002]
+Non e presente
+[1285, 0.0002]
+Non e presente
+[807, 0.0002]
+Non e presente
+[681, 0.0002]
+Non e presente
+[1001, 0.0002]
+Non e presente
+[1291, 0.0002]
+Non e presente
+[985, 0.0002]
+Non e presente
+[860, 0.0002]
+Non e presente
+[989, 0.0002]
+Non e presente
+[1092, 0.0002]
+Non e presente
+[1076, 0.0002]
+Non e presente
+[1249, 0.0002]
+Non e presente
+[933, 0.0002]
+Non e presente
+[1428, 0.0002]
+Non e presente
+[424, 0.0002]
+Non e presente
+[1192, 0.0002]
+Non e presente
+[1229, 0.0002]
+Non e presente
+[545, 0.0002]
+Non e presente
+[915, 0.0002]
+Non e presente
+[1211, 0.0002]
+Non e presente
+[1131, 0.0002]
+Non e presente
+[1084, 0.0002]
+Non e presente
+[991, 0.0002]
+Non e presente
+[793, 0.0002]
+Non e presente
+[351, 0.0002]
+Non e presente
+[1263, 0.0002]
+Non e presente
+[759, 0.0002]
+Non e presente
+[1400, 0.0002]
+Non e presente
+[256, 0.0002]
+Non e presente
+[1172, 0.0002]
+Non e presente
+[394, 0.0002]
+Non e presente
+[1469, 0.0002]
+Non e presente
+[533, 0.0002]
+Non e presente
+[1425, 0.0002]
+Non e presente
+[996, 0.0002]
+Non e presente
+[1265, 0.0002]
+Non e presente
+[803, 0.0002]
+Non e presente
+[669, 0.0002]
+Non e presente
+[714, 0.0002]
+Non e presente
+[695, 0.0002]
+Non e presente
+[1169, 0.0002]
+Non e presente
+[1277, 0.0002]
+Non e presente
+[718, 0.0002]
+Non e presente
+[397, 0.0002]
+Non e presente
+[958, 0.0002]
+Non e presente
+[1184, 0.0002]
+Non e presente
+[352, 0.0002]
+Non e presente
+[103, 0.0002]
+Non e presente
+[1404, 0.0002]
+Non e presente
+[1480, 0.0002]
+Non e presente
+[309, 0.0002]
+Non e presente
+[967, 0.0001]
+Non e presente
+[859, 0.0001]
+Non e presente
+[947, 0.0001]
+Non e presente
+[1451, 0.0001]
+Non e presente
+[791, 0.0001]
+Non e presente
+[1479, 0.0001]
+Non e presente
+[555, 0.0001]
+Non e presente
+[1274, 0.0001]
+Non e presente
+[698, 0.0001]
+Non e presente
+[835, 0.0001]
+Non e presente
+[1283, 0.0001]
+Non e presente
+[548, 0.0001]
+Non e presente
+[667, 0.0001]
+Non e presente
+[621, 0.0001]
+Non e presente
+[1117, 0.0001]
+Non e presente
+[767, 0.0001]
+Non e presente
+[1143, 0.0001]
+Non e presente
+[1195, 0.0001]
+Non e presente
+[1180, 0.0001]
+Non e presente
+[1540, 0.0001]
+Non e presente
+[337, 0.0001]
+Non e presente
+[1128, 0.0001]
+Non e presente
+[954, 0.0001]
+Non e presente
+[374, 0.0001]
+Non e presente
+[906, 0.0001]
+Non e presente
+[903, 0.0001]
+Non e presente
+[1179, 0.0001]
+Non e presente
+[1088, 0.0001]
+Non e presente
+[534, 0.0001]
+Non e presente
+[1000, 0.0001]
+Non e presente
+[263, 0.0001]
+Non e presente
+[798, 0.0001]
+Non e presente
+[1337, 0.0001]
+Non e presente
+[115, 0.0001]
+Non e presente
+[1099, 0.0001]
+Non e presente
+[1116, 0.0001]
+Non e presente
+[983, 0.0001]
+Non e presente
+[592, 0.0001]
+Non e presente
+[1296, 0.0001]
+Non e presente
+[1167, 0.0001]
+Non e presente
+[1266, 0.0001]
+Non e presente
+[1055, 0.0001]
+Non e presente
+[1181, 0.0001]
+Non e presente
+[1176, 0.0001]
+Non e presente
+[593, 0.0001]
+Non e presente
+[1165, 0.0001]
+Non e presente
+[1085, 0.0001]
+Non e presente
+[776, 0.0001]
+Non e presente
+[1268, 0.0001]
+Non e presente
+[964, 0.0001]
+Non e presente
+[999, 0.0001]
+Non e presente
+[1314, 0.0001]
+Non e presente
+[35, 0.0001]
+Non e presente
+[37, 0.0001]
+Non e presente
+[1187, 0.0001]
+Non e presente
+[889, 0.0001]
+Non e presente
+[804, 0.0001]
+Non e presente
+[1161, 0.0001]
+Non e presente
+[848, 0.0001]
+Non e presente
+[446, 0.0001]
+Non e presente
+[536, 0.0001]
+Non e presente
+[1111, 0.0001]
+Non e presente
+[1426, 0.0001]
+Non e presente
+[1015, 0.0001]
+Non e presente
+[1503, 0.0001]
+Non e presente
+[1124, 0.0001]
+Non e presente
+[1439, 0.0001]
+Non e presente
+[1100, 0.0001]
+Non e presente
+[1435, 0.0001]
+Non e presente
+[1437, 0.0001]
+Non e presente
+[828, 0.0001]
+Non e presente
+[1269, 0.0001]
+Non e presente
+[766, 0.0001]
+Non e presente
+[1171, 0.0001]
+Non e presente
+[1471, 0.0001]
+Non e presente
+[18, 0.0001]
+Non e presente
+[1004, 0.0001]
+Non e presente
+[1441, 0.0001]
+Non e presente
+[1336, 0.0001]
+Non e presente
+[1415, 0.0001]
+Non e presente
+[1068, 0.0001]
+Non e presente
+[1281, 0.0001]
+Non e presente
+[1154, 0.0001]
+Non e presente
+[353, 0.0001]
+Non e presente
+[1056, 0.0001]
+Non e presente
+[894, 0.0001]
+Non e presente
+[938, 0.0001]
+Non e presente
+[918, 0.0001]
+Non e presente
+[1335, 0.0001]
+Non e presente
+[1198, 0.0001]
+Non e presente
+[885, 0.0001]
+Non e presente
+[1288, 0.0001]
+Non e presente
+[1193, 0.0001]
+Non e presente
+[1145, 0.0001]
+Non e presente
+[867, 0.0001]
+Non e presente
+[1174, 0.0001]
+Non e presente
+[1087, 0.0001]
+Non e presente
+[1214, 0.0001]
+Non e presente
+[1278, 0.0001]
+Non e presente
+[390, 0.0001]
+Non e presente
+[888, 0.0001]
+Non e presente
+[1473, 0.0001]
+Non e presente
+[335, 0.0001]
+Non e presente
+[1141, 0.0001]
+Non e presente
+[908, 0.0001]
+Non e presente
+[1531, 0.0001]
+Non e presente
+[691, 0.0001]
+Non e presente
+[976, 0.0001]
+Non e presente
+[1262, 0.0001]
+Non e presente
+[1108, 0.0001]
+Non e presente
+[914, 0.0001]
+Non e presente
+[1271, 0.0001]
+Non e presente
+[970, 0.0001]
+Non e presente
+[1252, 0.0001]
+Non e presente
+[901, 0.0001]
+Non e presente
+[1483, 0.0001]
+Non e presente
+[912, 0.0001]
+Non e presente
+[1159, 0.0001]
+Non e presente
+[870, 0.0001]
+Non e presente
+[1475, 0.0001]
+Non e presente
+[1282, 0.0001]
+Non e presente
+[909, 0.0001]
+Non e presente
+[341, 0.0001]
+Non e presente
+[1148, 0.0001]
+Non e presente
+[1227, 0.0001]
+Non e presente
+[1105, 0.0001]
+Non e presente
+[668, 0.0001]
+Non e presente
+[1445, 0.0001]
+Non e presente
+[1305, 0.0001]
+Non e presente
+[1375, 0.0001]
+Non e presente
+[1253, 0.0001]
+Non e presente
+[1276, 0.0001]
+Non e presente
+[1456, 0.0001]
+Non e presente
+[1077, 0.0001]
+Non e presente
+[1072, 0.0001]
+Non e presente
+[34, 0.0001]
+Non e presente
+[1298, 0.0001]
+Non e presente
+[113, 0.0001]
+Non e presente
+[1615, 0.0001]
+Non e presente
+[1438, 0.0001]
+Non e presente
+[883, 0.0001]
+Non e presente
+[1082, 0.0001]
+Non e presente
+[1151, 0.0001]
+Non e presente
+[1413, 0.0001]
+Non e presente
+[1247, 0.0001]
+Non e presente
+[1202, 0.0001]
+Non e presente
+[1379, 0.0001]
+Non e presente
+[1246, 0.0001]
+Non e presente
+[1173, 0.0001]
+Non e presente
+[1255, 0.0001]
+Non e presente
+[917, 0.0001]
+Non e presente
+[1043, 0.0001]
+Non e presente
+[438, 0.0001]
+Non e presente
+[1280, 0.0001]
+Non e presente
+[1522, 0.0001]
+Non e presente
+[1200, 0.0001]
+Non e presente
+[1002, 0.0001]
+Non e presente
+[1114, 0.0001]
+Non e presente
+[1024, 0.0001]
+Non e presente
+[1031, 0.0001]
+Non e presente
+[1462, 0.0001]
+Non e presente
+[1250, 0.0001]
+Non e presente
+[1094, 0.0001]
+Non e presente
+[1177, 0.0001]
+Non e presente
+[1003, 0.0001]
+Non e presente
+[1038, 0.0001]
+Non e presente
+[1499, 0.0001]
+Non e presente
+[74, 0.0001]
+Non e presente
+[359, 0.0001]
+Non e presente
+[1075, 0.0001]
+Non e presente
+[1409, 0.0001]
+Non e presente
+[1213, 0.0001]
+Non e presente
+[146, 0.0001]
+Non e presente
+[1300, 0.0001]
+Non e presente
+[899, 0.0001]
+Non e presente
+[1553, 0.0001]
+Non e presente
+[1449, 0.0001]
+Non e presente
+[1270, 0.0001]
+Non e presente
+[1376, 0.0001]
+Non e presente
+[1468, 0.0001]
+Non e presente
+[893, 0.0001]
+Non e presente
+[1509, 0.0001]
+Non e presente
+[1205, 0.0001]
+Non e presente
+[1150, 0.0001]
+Non e presente
+[267, 0.0001]
+Non e presente
+[1560, 0.0001]
+Non e presente
+[1517, 0.0001]
+Non e presente
+[1279, 0.0001]
+Non e presente
+[1062, 0.0001]
+Non e presente
+[1529, 0.0001]
+Non e presente
+[1530, 0.0001]
+Non e presente
+[1264, 0.0001]
+Non e presente
+[1412, 0.0001]
+Non e presente
+[927, 0.0001]
+Non e presente
+[594, 0.0001]
+Non e presente
+[1313, 0.0001]
+Non e presente
+[981, 0.0001]
+Non e presente
+[1514, 0.0001]
+Non e presente
+[1322, 0.0001]
+Non e presente
+[75, 0.0001]
+Non e presente
+[1440, 0.0001]
+Non e presente
+[1423, 0.0001]
+Non e presente
+[1081, 0.0001]
+Non e presente
+[701, 0.0001]
+Non e presente
+[439, 0.0001]
+Non e presente
+[437, 0.0001]
+Non e presente
+[1539, 0.0001]
+Non e presente
+[1501, 0.0001]
+Non e presente
+[757, 0.0001]
+Non e presente
+[777, 0.0001]
+Non e presente
+[1312, 0.0001]
+Non e presente
+[1535, 0.0001]
+Non e presente
+[1289, 0.0001]
+Non e presente
+[851, 0.0001]
+Non e presente
+[1474, 0.0001]
+Non e presente
+[1459, 0.0001]
+Non e presente
+[1212, 0.0001]
+Non e presente
+[884, 0.0001]
+Non e presente
+[626, 0.0001]
+Non e presente
+[666, 0.0001]
+Non e presente
+[1490, 0.0001]
+Non e presente
+[911, 0.0001]
+Non e presente
+[1495, 0.0001]
+Non e presente
+[1353, 0.0001]
+Non e presente
+[1454, 0.0001]
+Non e presente
+[1378, 0.0001]
+Non e presente
+[1261, 0.0001]
+Non e presente
+[1487, 0.0001]
+Non e presente
+[1299, 0.0001]
+Non e presente
+[1190, 0.0001]
+Non e presente
+[442, 0.0001]
+Non e presente
+[104, 0.0001]
+Non e presente
+[1466, 0.0001]
+Non e presente
+[994, 0.0001]
+Non e presente
+[861, 0.0001]
+Non e presente
+[1397, 0.0001]
+Non e presente
+[1620, 0.0001]
+Non e presente
+[1102, 0.0001]
+Non e presente
+[799, 0.0001]
+Non e presente
+[935, 0.0001]
+Non e presente
+[1368, 0.0001]
+Non e presente
+[360, 0.0001]
+Non e presente
+[1488, 0.0001]
+Non e presente
+[850, 0.0001]
+Non e presente
+[822, 0.0001]
+Non e presente
+[1524, 0.0001]
+Non e presente
+[1394, 0.0001]
+Non e presente
+[1254, 0.0001]
+Non e presente
+[858, 0.0001]
+Non e presente
+[706, 0.0001]
+Non e presente
+[1319, 0.0001]
+Non e presente
+[1275, 0.0001]
+Non e presente
+[1427, 0.0001]
+Non e presente
+[920, 0.0001]
+Non e presente
+[1470, 0.0001]
+Non e presente
+[1555, 0.0001]
+Non e presente
+[1223, 0.0001]
+Non e presente
+[1388, 0.0001]
+Non e presente
+[1346, 0.0001]
+Non e presente
+[1393, 0.0001]
+Non e presente
+[1380, 0.0001]
+Non e presente
+[910, 0.0001]
+Non e presente
+[1448, 0.0001]
+Non e presente
+[1489, 0.0001]
+Non e presente
+[1516, 0.0001]
+Non e presente
+[1589, 0.0001]
+Non e presente
+[1356, 0.0001]
+Non e presente
+[1558, 0.0001]
+Non e presente
+[1351, 0.0001]
+Non e presente
+[1442, 0.0001]
+Non e presente
+[1512, 0.0001]
+Non e presente
+[1434, 0.0001]
+Non e presente
+[1406, 0.0001]
+Non e presente
+[1287, 0.0001]
+Non e presente
+[1545, 0.0001]
+Non e presente
+[1405, 0.0001]
+Non e presente
+[1216, 0.0001]
+Non e presente
+[1186, 0.0001]
+Non e presente
+[1162, 0.0001]
+Non e presente
+[1344, 0.0001]
+Non e presente
+[1496, 0.0001]
+Non e presente
+[1301, 0.0001]
+Non e presente
+[1316, 0.0001]
+Non e presente
+[1585, 0.0001]
+Non e presente
+[1578, 0.0001]
+Non e presente
+[1554, 0.0001]
+Non e presente
+[1549, 0.0001]
+Non e presente
+[1338, 0.0001]
+Non e presente
+[1317, 0.0001]
+Non e presente
+[788, 0.0001]
+Non e presente
+[1382, 0.0001]
+Non e presente
+[1416, 0.0001]
+Non e presente
+[784, 0.0001]
+Non e presente
+[1511, 0.0001]
+Non e presente
+[1395, 0.0001]
+Non e presente
+[361, 0.0001]
+Non e presente
+[1242, 0.0001]
+Non e presente
+[1403, 0.0001]
+Non e presente
+[1422, 0.0001]
+Non e presente
+[913, 0.0001]
+Non e presente
+[1391, 0.0001]
+Non e presente
+[1387, 0.0001]
+Non e presente
+[1384, 0.0001]
+Non e presente
+[1552, 0.0001]
+Non e presente
+[1083, 0.0001]
+Non e presente
+[1381, 0.0001]
+Non e presente
+[1257, 0.0001]
+Non e presente
+[1592, 0.0001]
+Non e presente
+[1424, 0.0001]
+Non e presente
+[247, 0.0001]
+Non e presente
+[1260, 0.0001]
+Non e presente
+[1333, 0.0001]
+Non e presente
+[314, 0.0001]
+Non e presente
+[1369, 0.0001]
+Non e presente
+[1402, 0.0001]
+Non e presente
+[1484, 0.0001]
+Non e presente
+[1591, 0.0001]
+Non e presente
+[1408, 0.0001]
+Non e presente
+[1164, 0.0001]
+Non e presente
+[598, 0.0001]
+Non e presente
+[1506, 0.0001]
+Non e presente
+[839, 0.0001]
+Non e presente
+[1324, 0.0001]
+Non e presente
+[1628, 0.0001]
+Non e presente
+[119, 0.0001]
+Non e presente
+[1370, 0.0001]
+Non e presente
+dal file piu grande al piu piccolo
+[181, 0.0002]
+Non e presente
+[98, 0.0002]
+Non e presente
+[172, 0.0002]
+Non e presente
+[1, 0.0002]
+Non e presente
+[79, 0.0001]
+Non e presente
+[7, 0.0001]
+Non e presente
+[258, 0.0001]
+Non e presente
+[168, 0.0001]
+Non e presente
+[173, 0.0001]
+Non e presente
+[195, 0.0001]
+Non e presente
+[117, 0.0001]
+Non e presente
+[96, 0.0001]
+Non e presente
+[222, 0.0001]
+Non e presente
+[288, 0.0001]
+Non e presente
+[22, 0.0001]
+Non e presente
+[202, 0.0001]
+Non e presente
+[234, 0.0001]
+Non e presente
+[176, 0.0001]
+Non e presente
+[183, 0.0001]
+Non e presente
+[28, 0.0001]
+Non e presente
+[82, 0.0001]
+Non e presente
+[89, 0.0001]
+Non e presente
+[151, 0.0001]
+Non e presente
+[97, 0.0001]
+Non e presente
+[135, 0.0001]
+Non e presente
+[228, 0.0001]
+Non e presente
+[153, 0.0001]
+Non e presente
+[568, 0.0001]
+Non e presente
+[144, 0.0001]
+Non e presente
+[11, 0.0001]
+Non e presente
+[118, 0.0001]
+Non e presente
+[71, 0.0001]
+Non e presente
+[95, 0.0001]
+Non e presente
+[185, 0.0001]
+Non e presente
+[9, 0.0001]
+Non e presente
+[300, 0.0001]
+Non e presente
+[546, 0.0001]
+Non e presente
+[483, 0.0001]
+Non e presente
+[111, 0.0001]
+Non e presente
+[496, 0.0001]
+Non e presente
+[180, 0.0001]
+Non e presente
+[742, 0.0001]
+Non e presente
+[276, 0.0001]
+Non e presente
+[200, 0.0001]
+Non e presente
+[230, 0.0001]
+Non e presente
+[313, 0.0001]
+Non e presente
+[588, 0.0001]
+Non e presente
+[175, 0.0001]
+Non e presente
+[235, 0.0001]
+Non e presente
+[209, 0.0001]
+Non e presente
+[125, 0.0001]
+Non e presente
+[367, 0.0001]
+Non e presente
+[203, 0.0001]
+Non e presente
+[427, 0.0001]
+Non e presente
+[603, 0.0001]
+Non e presente
+[433, 0.0001]
+Non e presente
+[99, 0.0001]
+Non e presente
+[218, 0.0001]
+Non e presente
+[226, 0.0001]
+Non e presente
+[402, 0.0001]
+Non e presente
+[475, 0.0001]
+Non e presente
+[273, 0.0001]
+Non e presente
+[684, 0.0001]
+Non e presente
+[432, 0.0001]
+Non e presente
+[471, 0.0001]
+Non e presente
+[748, 0.0001]
+Non e presente
+[154, 0.0001]
+Non e presente
+[302, 0.0001]
+Non e presente
+[550, 0.0001]
+Non e presente
+[23, 0.0001]
+Non e presente
+[597, 0.0001]
+Non e presente
+[443, 0.0001]
+Non e presente
+[651, 0.0001]
+Non e presente
+[328, 0.0001]
+Non e presente
+[227, 0.0001]
+Non e presente
+[479, 0.0001]
+Non e presente
+[31, 0.0001]
+Non e presente
+[83, 0.0001]
+Non e presente
+[582, 0.0001]
+Non e presente
+[431, 0.0001]
+Non e presente
+[559, 0.0001]
+Non e presente
+[250, 0.0001]
+Non e presente
+[511, 0.0001]
+Non e presente
+[268, 0.0001]
+Non e presente
+[199, 0.0001]
+Non e presente
+[231, 0.0001]
+Non e presente
+[13, 0.0001]
+Non e presente
+[91, 0.0001]
+Non e presente
+[274, 0.0001]
+Non e presente
+[42, 0.0001]
+Non e presente
+[164, 0.0001]
+Non e presente
+[68, 0.0001]
+Non e presente
+[515, 0.0001]
+Non e presente
+[147, 0.0001]
+Non e presente
+[845, 0.0001]
+Non e presente
+[55, 0.0001]
+Non e presente
+[591, 0.0001]
+Non e presente
+[87, 0.0001]
+Non e presente
+[2, 0.0001]
+Non e presente
+[411, 0.0001]
+Non e presente
+[73, 0.0001]
+Non e presente
+[472, 0.0001]
+Non e presente
+[498, 0.0001]
+Non e presente
+[156, 0.0001]
+Non e presente
+[654, 0.0001]
+Non e presente
+[241, 0.0001]
+Non e presente
+[523, 0.0001]
+Non e presente
+[124, 0.0001]
+Non e presente
+[86, 0.0001]
+Non e presente
+[298, 0.0001]
+Non e presente
+[462, 0.0001]
+Non e presente
+[62, 0.0001]
+Non e presente
+[410, 0.0001]
+Non e presente
+[53, 0.0001]
+Non e presente
+[333, 0.0001]
+Non e presente
+[223, 0.0001]
+Non e presente
+[685, 0.0001]
+Non e presente
+[746, 0.0001]
+Non e presente
+[418, 0.0001]
+Non e presente
+[233, 0.0001]
+Non e presente
+[240, 0.0001]
+Non e presente
+[245, 0.0001]
+Non e presente
+[38, 0.0001]
+Non e presente
+[217, 0.0001]
+Non e presente
+[177, 0.0001]
+Non e presente
+[81, 0.0001]
+Non e presente
+[283, 0.0001]
+Non e presente
+[29, 0.0001]
+Non e presente
+[678, 0.0001]
+Non e presente
+[271, 0.0001]
+Non e presente
+[65, 0.0001]
+Non e presente
+[380, 0.0001]
+Non e presente
+[428, 0.0001]
+Non e presente
+[447, 0.0001]
+Non e presente
+[281, 0.0001]
+Non e presente
+[198, 0.0001]
+Non e presente
+[455, 0.0001]
+Non e presente
+[705, 0.0001]
+Non e presente
+[323, 0.0001]
+Non e presente
+[252, 0.0001]
+Non e presente
+[526, 0.0001]
+Non e presente
+[470, 0.0001]
+Non e presente
+[54, 0.0001]
+Non e presente
+[484, 0.0001]
+Non e presente
+[322, 0.0001]
+Non e presente
+[219, 0.0001]
+Non e presente
+[1028, 0.0001]
+Non e presente
+[521, 0.0001]
+Non e presente
+[150, 0.0001]
+Non e presente
+[520, 0.0001]
+Non e presente
+[272, 0.0001]
+Non e presente
+[184, 0.0001]
+Non e presente
+[190, 0.0001]
+Non e presente
+[663, 0.0001]
+Non e presente
+[178, 0.0001]
+Non e presente
+[679, 0.0001]
+Non e presente
+[504, 0.0001]
+Non e presente
+[67, 0.0001]
+Non e presente
+[449, 0.0001]
+Non e presente
+[232, 0.0001]
+Non e presente
+[48, 0.0001]
+Non e presente
+[747, 0.0001]
+Non e presente
+[382, 0.0001]
+Non e presente
+[1016, 0.0001]
+Non e presente
+[473, 0.0001]
+Non e presente
+[92, 0.0001]
+Non e presente
+[170, 0.0001]
+Non e presente
+[510, 0.0001]
+Non e presente
+[1047, 0.0001]
+Non e presente
+[528, 0.0001]
+Non e presente
+[549, 0.0001]
+Non e presente
+[214, 0.0001]
+Non e presente
+[421, 0.0001]
+Non e presente
+[554, 0.0001]
+Non e presente
+[709, 0.0001]
+Non e presente
+[192, 0.0001]
+Non e presente
+[155, 0.0001]
+Non e presente
+[578, 0.0001]
+Non e presente
+[293, 0.0001]
+Non e presente
+[751, 0.0001]
+Non e presente
+[90, 0.0001]
+Non e presente
+[693, 0.0001]
+Non e presente
+[291, 0.0001]
+Non e presente
+[715, 0.0001]
+Non e presente
+[436, 0.0001]
+Non e presente
+[317, 0.0001]
+Non e presente
+[109, 0.0001]
+Non e presente
+[159, 0.0001]
+Non e presente
+[576, 0.0001]
+Non e presente
+[665, 0.0001]
+Non e presente
+[755, 0.0001]
+Non e presente
+[249, 0.0001]
+Non e presente
+[636, 0.0001]
+Non e presente
+[148, 0.0001]
+Non e presente
+[642, 0.0001]
+Non e presente
+[33, 0.0001]
+Non e presente
+[506, 0.0001]
+Non e presente
+[756, 0.0001]
+Non e presente
+[123, 0.0001]
+Non e presente
+[699, 0.0001]
+Non e presente
+[386, 0.0001]
+Non e presente
+[762, 0.0001]
+Non e presente
+[399, 0.0001]
+Non e presente
+[122, 0.0001]
+Non e presente
+[169, 0.0001]
+Non e presente
+[136, 0.0001]
+Non e presente
+[44, 0.0001]
+Non e presente
+[425, 0.0001]
+Non e presente
+[129, 0.0001]
+Non e presente
+[131, 0.0001]
+Non e presente
+[52, 0.0001]
+Non e presente
+[729, 0.0001]
+Non e presente
+[51, 0.0001]
+Non e presente
+[448, 0.0001]
+Non e presente
+[596, 0.0001]
+Non e presente
+[430, 0.0001]
+Non e presente
+[93, 0.0001]
+Non e presente
+[319, 0.0]
+Non e presente
+[259, 0.0]
+Non e presente
+[518, 0.0]
+Non e presente
+[928, 0.0]
+Non e presente
+[116, 0.0]
+Non e presente
+[39, 0.0]
+Non e presente
+[507, 0.0]
+Non e presente
+[658, 0.0]
+Non e presente
+[212, 0.0]
+Non e presente
+[163, 0.0]
+Non e presente
+[429, 0.0]
+Non e presente
+[17, 0.0]
+Non e presente
+[673, 0.0]
+Non e presente
+[478, 0.0]
+Non e presente
+[781, 0.0]
+Non e presente
+[290, 0.0]
+Non e presente
+[420, 0.0]
+Non e presente
+[225, 0.0]
+Non e presente
+[652, 0.0]
+Non e presente
+[246, 0.0]
+Non e presente
+[1074, 0.0]
+Non e presente
+[417, 0.0]
+Non e presente
+[5, 0.0]
+Non e presente
+[720, 0.0]
+Non e presente
+[465, 0.0]
+Non e presente
+[529, 0.0]
+Non e presente
+[412, 0.0]
+Non e presente
+[347, 0.0]
+Non e presente
+[3, 0.0]
+Non e presente
+[625, 0.0]
+Non e presente
+[152, 0.0]
+Non e presente
+[141, 0.0]
+Non e presente
+[260, 0.0]
+Non e presente
+[820, 0.0]
+Non e presente
+[327, 0.0]
+Non e presente
+[710, 0.0]
+Non e presente
+[270, 0.0]
+Non e presente
+[201, 0.0]
+Non e presente
+[1039, 0.0]
+Non e presente
+[1011, 0.0]
+Non e presente
+[831, 0.0]
+Non e presente
+[461, 0.0]
+Non e presente
+[32, 0.0]
+Non e presente
+[640, 0.0]
+Non e presente
+[80, 0.0]
+Non e presente
+[778, 0.0]
+Non e presente
+[661, 0.0]
+Non e presente
+[662, 0.0]
+Non e presente
+[627, 0.0]
+Non e presente
+[358, 0.0]
+Non e presente
+[408, 0.0]
+Non e presente
+[584, 0.0]
+Non e presente
+[101, 0.0]
+Non e presente
+[530, 0.0]
+Non e presente
+[477, 0.0]
+Non e presente
+[316, 0.0]
+Non e presente
+[558, 0.0]
+Non e presente
+[780, 0.0]
+Non e presente
+[21, 0.0]
+Non e presente
+[387, 0.0]
+Non e presente
+[569, 0.0]
+Non e presente
+[724, 0.0]
+Non e presente
+[310, 0.0]
+Non e presente
+[823, 0.0]
+Non e presente
+[736, 0.0]
+Non e presente
+[926, 0.0]
+Non e presente
+[1101, 0.0]
+Non e presente
+[59, 0.0]
+Non e presente
+[919, 0.0]
+Non e presente
+[346, 0.0]
+Non e presente
+[519, 0.0]
+Non e presente
+[10, 0.0]
+Non e presente
+[304, 0.0]
+Non e presente
+[469, 0.0]
+Non e presente
+[825, 0.0]
+Non e presente
+[392, 0.0]
+Non e presente
+[790, 0.0]
+Non e presente
+[959, 0.0]
+Non e presente
+[650, 0.0]
+Non e presente
+[371, 0.0]
+Non e presente
+[647, 0.0]
+Non e presente
+[525, 0.0]
+Non e presente
+[468, 0.0]
+Non e presente
+[332, 0.0]
+Non e presente
+[243, 0.0]
+Non e presente
+[826, 0.0]
+Non e presente
+[491, 0.0]
+Non e presente
+[303, 0.0]
+Non e presente
+[45, 0.0]
+Non e presente
+[505, 0.0]
+Non e presente
+[325, 0.0]
+Non e presente
+[1035, 0.0]
+Non e presente
+[616, 0.0]
+Non e presente
+[343, 0.0]
+Non e presente
+[727, 0.0]
+Non e presente
+[128, 0.0]
+Non e presente
+[463, 0.0]
+Non e presente
+[604, 0.0]
+Non e presente
+[690, 0.0]
+Non e presente
+[879, 0.0]
+Non e presente
+[452, 0.0]
+Non e presente
+[324, 0.0]
+Non e presente
+[949, 0.0]
+Non e presente
+[488, 0.0]
+Non e presente
+[930, 0.0]
+Non e presente
+[391, 0.0]
+Non e presente
+[553, 0.0]
+Non e presente
+[939, 0.0]
+Non e presente
+[416, 0.0]
+Non e presente
+[497, 0.0]
+Non e presente
+[707, 0.0]
+Non e presente
+[633, 0.0]
+Non e presente
+[280, 0.0]
+Non e presente
+[434, 0.0]
+Non e presente
+[76, 0.0]
+Non e presente
+[1041, 0.0]
+Non e presente
+[969, 0.0]
+Non e presente
+[207, 0.0]
+Non e presente
+[606, 0.0]
+Non e presente
+[696, 0.0]
+Non e presente
+[561, 0.0]
+Non e presente
+[145, 0.0]
+Non e presente
+[770, 0.0]
+Non e presente
+[737, 0.0]
+Non e presente
+[581, 0.0]
+Non e presente
+[607, 0.0]
+Non e presente
+[744, 0.0]
+Non e presente
+[264, 0.0]
+Non e presente
+[924, 0.0]
+Non e presente
+[516, 0.0]
+Non e presente
+[672, 0.0]
+Non e presente
+[717, 0.0]
+Non e presente
+[171, 0.0]
+Non e presente
+[126, 0.0]
+Non e presente
+[716, 0.0]
+Non e presente
+[895, 0.0]
+Non e presente
+[502, 0.0]
+Non e presente
+[686, 0.0]
+Non e presente
+[27, 0.0]
+Non e presente
+[702, 0.0]
+Non e presente
+[287, 0.0]
+Non e presente
+[513, 0.0]
+Non e presente
+[946, 0.0]
+Non e presente
+[242, 0.0]
+Non e presente
+[61, 0.0]
+Non e presente
+[721, 0.0]
+Non e presente
+[139, 0.0]
+Non e presente
+[619, 0.0]
+Non e presente
+[499, 0.0]
+Non e presente
+[1073, 0.0]
+Non e presente
+[450, 0.0]
+Non e presente
+[60, 0.0]
+Non e presente
+[609, 0.0]
+Non e presente
+[366, 0.0]
+Non e presente
+[409, 0.0]
+Non e presente
+[221, 0.0]
+Non e presente
+[713, 0.0]
+Non e presente
+[395, 0.0]
+Non e presente
+[492, 0.0]
+Non e presente
+[1119, 0.0]
+Non e presente
+[649, 0.0]
+Non e presente
+[544, 0.0]
+Non e presente
+[942, 0.0]
+Non e presente
+[676, 0.0]
+Non e presente
+[292, 0.0]
+Non e presente
+[120, 0.0]
+Non e presente
+[20, 0.0]
+Non e presente
+[106, 0.0]
+Non e presente
+[570, 0.0]
+Non e presente
+[855, 0.0]
+Non e presente
+[493, 0.0]
+Non e presente
+[632, 0.0]
+Non e presente
+[277, 0.0]
+Non e presente
+[849, 0.0]
+Non e presente
+[541, 0.0]
+Non e presente
+[338, 0.0]
+Non e presente
+[487, 0.0]
+Non e presente
+[542, 0.0]
+Non e presente
+[675, 0.0]
+Non e presente
+[789, 0.0]
+Non e presente
+[189, 0.0]
+Non e presente
+[728, 0.0]
+Non e presente
+[102, 0.0]
+Non e presente
+[552, 0.0]
+Non e presente
+[614, 0.0]
+Non e presente
+[806, 0.0]
+Non e presente
+[494, 0.0]
+Non e presente
+[108, 0.0]
+Non e presente
+[206, 0.0]
+Non e presente
+[331, 0.0]
+Non e presente
+[1118, 0.0]
+Non e presente
+[1135, 0.0]
+Non e presente
+[466, 0.0]
+Non e presente
+[486, 0.0]
+Non e presente
+[467, 0.0]
+Non e presente
+[602, 0.0]
+Non e presente
+[495, 0.0]
+Non e presente
+[1228, 0.0]
+Non e presente
+[794, 0.0]
+Non e presente
+[254, 0.0]
+Non e presente
+[761, 0.0]
+Non e presente
+[1046, 0.0]
+Non e presente
+[871, 0.0]
+Non e presente
+[365, 0.0]
+Non e presente
+[615, 0.0]
+Non e presente
+[512, 0.0]
+Non e presente
+[931, 0.0]
+Non e presente
+[955, 0.0]
+Non e presente
+[562, 0.0]
+Non e presente
+[674, 0.0]
+Non e presente
+[295, 0.0]
+Non e presente
+[824, 0.0]
+Non e presente
+[489, 0.0]
+Non e presente
+[441, 0.0]
+Non e presente
+[956, 0.0]
+Non e presente
+[810, 0.0]
+Non e presente
+[165, 0.0]
+Non e presente
+[220, 0.0]
+Non e presente
+[166, 0.0]
+Non e presente
+[671, 0.0]
+Non e presente
+[689, 0.0]
+Non e presente
+[114, 0.0]
+Non e presente
+[43, 0.0]
+Non e presente
+[772, 0.0]
+Non e presente
+[1065, 0.0]
+Non e presente
+[783, 0.0]
+Non e presente
+[490, 0.0]
+Non e presente
+[354, 0.0]
+Non e presente
+[993, 0.0]
+Non e presente
+[1091, 0.0]
+Non e presente
+[741, 0.0]
+Non e presente
+[413, 0.0]
+Non e presente
+[802, 0.0]
+Non e presente
+[363, 0.0]
+Non e presente
+[577, 0.0]
+Non e presente
+[731, 0.0]
+Non e presente
+[444, 0.0]
+Non e presente
+[379, 0.0]
+Non e presente
+[923, 0.0]
+Non e presente
+[1188, 0.0]
+Non e presente
+[682, 0.0]
+Non e presente
+[1221, 0.0]
+Non e presente
+[664, 0.0]
+Non e presente
+[595, 0.0]
+Non e presente
+[921, 0.0]
+Non e presente
+[1217, 0.0]
+Non e presente
+[847, 0.0]
+Non e presente
+[771, 0.0]
+Non e presente
+[785, 0.0]
+Non e presente
+[306, 0.0]
+Non e presente
+[369, 0.0]
+Non e presente
+[1009, 0.0]
+Non e presente
+[1267, 0.0]
+Non e presente
+[1210, 0.0]
+Non e presente
+[840, 0.0]
+Non e presente
+[833, 0.0]
+Non e presente
+[951, 0.0]
+Non e presente
+[262, 0.0]
+Non e presente
+[977, 0.0]
+Non e presente
+[583, 0.0]
+Non e presente
+[585, 0.0]
+Non e presente
+[765, 0.0]
+Non e presente
+[622, 0.0]
+Non e presente
+[769, 0.0]
+Non e presente
+[589, 0.0]
+Non e presente
+[373, 0.0]
+Non e presente
+[1110, 0.0]
+Non e presente
+[827, 0.0]
+Non e presente
+[943, 0.0]
+Non e presente
+[278, 0.0]
+Non e presente
+[41, 0.0]
+Non e presente
+[638, 0.0]
+Non e presente
+[1098, 0.0]
+Non e presente
+[687, 0.0]
+Non e presente
+[873, 0.0]
+Non e presente
+[19, 0.0]
+Non e presente
+[723, 0.0]
+Non e presente
+[1220, 0.0]
+Non e presente
+[639, 0.0]
+Non e presente
+[623, 0.0]
+Non e presente
+[1139, 0.0]
+Non e presente
+[78, 0.0]
+Non e presente
+[1010, 0.0]
+Non e presente
+[345, 0.0]
+Non e presente
+[311, 0.0]
+Non e presente
+[620, 0.0]
+Non e presente
+[740, 0.0]
+Non e presente
+[1079, 0.0]
+Non e presente
+[236, 0.0]
+Non e presente
+[364, 0.0]
+Non e presente
+[299, 0.0]
+Non e presente
+[586, 0.0]
+Non e presente
+[656, 0.0]
+Non e presente
+[988, 0.0]
+Non e presente
+[670, 0.0]
+Non e presente
+[813, 0.0]
+Non e presente
+[30, 0.0]
+Non e presente
+[1017, 0.0]
+Non e presente
+[1090, 0.0]
+Non e presente
+[535, 0.0]
+Non e presente
+[637, 0.0]
+Non e presente
+[571, 0.0]
+Non e presente
+[945, 0.0]
+Non e presente
+[57, 0.0]
+Non e presente
+[644, 0.0]
+Non e presente
+[646, 0.0]
+Non e presente
+[611, 0.0]
+Non e presente
+[843, 0.0]
+Non e presente
+[572, 0.0]
+Non e presente
+[940, 0.0]
+Non e presente
+[224, 0.0]
+Non e presente
+[841, 0.0]
+Non e presente
+[456, 0.0]
+Non e presente
+[779, 0.0]
+Non e presente
+[406, 0.0]
+Non e presente
+[694, 0.0]
+Non e presente
+[856, 0.0]
+Non e presente
+[537, 0.0]
+Non e presente
+[975, 0.0]
+Non e presente
+[808, 0.0]
+Non e presente
+[297, 0.0]
+Non e presente
+[407, 0.0]
+Non e presente
+[774, 0.0]
+Non e presente
+[844, 0.0]
+Non e presente
+[890, 0.0]
+Non e presente
+[952, 0.0]
+Non e presente
+[630, 0.0]
+Non e presente
+[929, 0.0]
+Non e presente
+[372, 0.0]
+Non e presente
+[760, 0.0]
+Non e presente
+[719, 0.0]
+Non e presente
+[1197, 0.0]
+Non e presente
+[963, 0.0]
+Non e presente
+[334, 0.0]
+Non e presente
+[1007, 0.0]
+Non e presente
+[388, 0.0]
+Non e presente
+[972, 0.0]
+Non e presente
+[1021, 0.0]
+Non e presente
+[875, 0.0]
+Non e presente
+[612, 0.0]
+Non e presente
+[653, 0.0]
+Non e presente
+[805, 0.0]
+Non e presente
+[775, 0.0]
+Non e presente
+[251, 0.0]
+Non e presente
+[500, 0.0]
+Non e presente
+[846, 0.0]
+Non e presente
+[464, 0.0]
+Non e presente
+[1042, 0.0]
+Non e presente
+[961, 0.0]
+Non e presente
+[797, 0.0]
+Non e presente
+[426, 0.0]
+Non e presente
+[1020, 0.0]
+Non e presente
+[110, 0.0]
+Non e presente
+[608, 0.0]
+Non e presente
+[573, 0.0]
+Non e presente
+[734, 0.0]
+Non e presente
+[932, 0.0]
+Non e presente
+[743, 0.0]
+Non e presente
+[46, 0.0]
+Non e presente
+[547, 0.0]
+Non e presente
+[887, 0.0]
+Non e presente
+[1244, 0.0]
+Non e presente
+[567, 0.0]
+Non e presente
+[971, 0.0]
+Non e presente
+[107, 0.0]
+Non e presente
+[1134, 0.0]
+Non e presente
+[244, 0.0]
+Non e presente
+[522, 0.0]
+Non e presente
+[1133, 0.0]
+Non e presente
+[1142, 0.0]
+Non e presente
+[415, 0.0]
+Non e presente
+[1089, 0.0]
+Non e presente
+[1170, 0.0]
+Non e presente
+[819, 0.0]
+Non e presente
+[1136, 0.0]
+Non e presente
+[1018, 0.0]
+Non e presente
+[383, 0.0]
+Non e presente
+[1194, 0.0]
+Non e presente
+[738, 0.0]
+Non e presente
+[1411, 0.0]
+Non e presente
+[1226, 0.0]
+Non e presente
+[538, 0.0]
+Non e presente
+[966, 0.0]
+Non e presente
+[1109, 0.0]
+Non e presente
+[1045, 0.0]
+Non e presente
+[922, 0.0]
+Non e presente
+[1067, 0.0]
+Non e presente
+[749, 0.0]
+Non e presente
+[800, 0.0]
+Non e presente
+[979, 0.0]
+Non e presente
+[563, 0.0]
+Non e presente
+[342, 0.0]
+Non e presente
+[398, 0.0]
+Non e presente
+[368, 0.0]
+Non e presente
+[580, 0.0]
+Non e presente
+[16, 0.0]
+Non e presente
+[1070, 0.0]
+Non e presente
+[1215, 0.0]
+Non e presente
+[1053, 0.0]
+Non e presente
+[1051, 0.0]
+Non e presente
+[1008, 0.0]
+Non e presente
+[1013, 0.0]
+Non e presente
+[880, 0.0]
+Non e presente
+[370, 0.0]
+Non e presente
+[837, 0.0]
+Non e presente
+[389, 0.0]
+Non e presente
+[984, 0.0]
+Non e presente
+[613, 0.0]
+Non e presente
+[950, 0.0]
+Non e presente
+[564, 0.0]
+Non e presente
+[641, 0.0]
+Non e presente
+[1222, 0.0]
+Non e presente
+[974, 0.0]
+Non e presente
+[1126, 0.0]
+Non e presente
+[1113, 0.0]
+Non e presente
+[886, 0.0]
+Non e presente
+[877, 0.0]
+Non e presente
+[925, 0.0]
+Non e presente
+[645, 0.0]
+Non e presente
+[375, 0.0]
+Non e presente
+[1147, 0.0]
+Non e presente
+[754, 0.0]
+Non e presente
+[1060, 0.0]
+Non e presente
+[948, 0.0]
+Non e presente
+[624, 0.0]
+Non e presente
+[836, 0.0]
+Non e presente
+[330, 0.0]
+Non e presente
+[902, 0.0]
+Non e presente
+[1019, 0.0]
+Non e presente
+[1037, 0.0]
+Non e presente
+[953, 0.0]
+Non e presente
+[896, 0.0]
+Non e presente
+[1033, 0.0]
+Non e presente
+[1218, 0.0]
+Non e presente
+[876, 0.0]
+Non e presente
+[683, 0.0]
+Non e presente
+[764, 0.0]
+Non e presente
+[1208, 0.0]
+Non e presente
+[344, 0.0]
+Non e presente
+[1095, 0.0]
+Non e presente
+[551, 0.0]
+Non e presente
+[1168, 0.0]
+Non e presente
+[355, 0.0]
+Non e presente
+[960, 0.0]
+Non e presente
+[752, 0.0]
+Non e presente
+[900, 0.0]
+Non e presente
+[539, 0.0]
+Non e presente
+[1059, 0.0]
+Non e presente
+[881, 0.0]
+Non e presente
+[1407, 0.0]
+Non e presente
+[1107, 0.0]
+Non e presente
+[821, 0.0]
+Non e presente
+[339, 0.0]
+Non e presente
+[980, 0.0]
+Non e presente
+[1006, 0.0]
+Non e presente
+[1248, 0.0]
+Non e presente
+[329, 0.0]
+Non e presente
+[1132, 0.0]
+Non e presente
+[1178, 0.0]
+Non e presente
+[445, 0.0]
+Non e presente
+[279, 0.0]
+Non e presente
+[1036, 0.0]
+Non e presente
+[336, 0.0]
+Non e presente
+[818, 0.0]
+Non e presente
+[1206, 0.0]
+Non e presente
+[1231, 0.0]
+Non e presente
+[829, 0.0]
+Non e presente
+[965, 0.0]
+Non e presente
+[601, 0.0]
+Non e presente
+[1478, 0.0]
+Non e presente
+[635, 0.0]
+Non e presente
+[936, 0.0]
+Non e presente
+[704, 0.0]
+Non e presente
+[872, 0.0]
+Non e presente
+[1157, 0.0]
+Non e presente
+[874, 0.0]
+Non e presente
+[1052, 0.0]
+Non e presente
+[422, 0.0]
+Non e presente
+[1078, 0.0]
+Non e presente
+[565, 0.0]
+Non e presente
+[834, 0.0]
+Non e presente
+[1034, 0.0]
+Non e presente
+[753, 0.0]
+Non e presente
+[863, 0.0]
+Non e presente
+[634, 0.0]
+Non e presente
+[725, 0.0]
+Non e presente
+[700, 0.0]
+Non e presente
+[460, 0.0]
+Non e presente
+[350, 0.0]
+Non e presente
+[730, 0.0]
+Non e presente
+[1284, 0.0]
+Non e presente
+[1239, 0.0]
+Non e presente
+[1129, 0.0]
+Non e presente
+[149, 0.0]
+Non e presente
+[1025, 0.0]
+Non e presente
+[812, 0.0]
+Non e presente
+[1103, 0.0]
+Non e presente
+[1240, 0.0]
+Non e presente
+[1153, 0.0]
+Non e presente
+[801, 0.0]
+Non e presente
+[261, 0.0]
+Non e presente
+[1069, 0.0]
+Non e presente
+[560, 0.0]
+Non e presente
+[1115, 0.0]
+Non e presente
+[978, 0.0]
+Non e presente
+[1049, 0.0]
+Non e presente
+[543, 0.0]
+Non e presente
+[1232, 0.0]
+Non e presente
+[1209, 0.0]
+Non e presente
+[579, 0.0]
+Non e presente
+[1311, 0.0]
+Non e presente
+[962, 0.0]
+Non e presente
+[816, 0.0]
+Non e presente
+[878, 0.0]
+Non e presente
+[1112, 0.0]
+Non e presente
+[1140, 0.0]
+Non e presente
+[1230, 0.0]
+Non e presente
+[1286, 0.0]
+Non e presente
+[997, 0.0]
+Non e presente
+[688, 0.0]
+Non e presente
+[1163, 0.0]
+Non e presente
+[1203, 0.0]
+Non e presente
+[1137, 0.0]
+Non e presente
+[832, 0.0]
+Non e presente
+[786, 0.0]
+Non e presente
+[1093, 0.0]
+Non e presente
+[6, 0.0]
+Non e presente
+[400, 0.0]
+Non e presente
+[1207, 0.0]
+Non e presente
+[1149, 0.0]
+Non e presente
+[1303, 0.0]
+Non e presente
+[1005, 0.0]
+Non e presente
+[1040, 0.0]
+Non e presente
+[1061, 0.0]
+Non e presente
+[1057, 0.0]
+Non e presente
+[1219, 0.0]
+Non e presente
+[680, 0.0]
+Non e presente
+[266, 0.0]
+Non e presente
+[557, 0.0]
+Non e presente
+[703, 0.0]
+Non e presente
+[1086, 0.0]
+Non e presente
+[1054, 0.0]
+Non e presente
+[1444, 0.0]
+Non e presente
+[457, 0.0]
+Non e presente
+[320, 0.0]
+Non e presente
+[459, 0.0]
+Non e presente
+[1185, 0.0]
+Non e presente
+[1199, 0.0]
+Non e presente
+[1058, 0.0]
+Non e presente
+[758, 0.0]
+Non e presente
+[453, 0.0]
+Non e presente
+[36, 0.0]
+Non e presente
+[882, 0.0]
+Non e presente
+[84, 0.0]
+Non e presente
+[773, 0.0]
+Non e presente
+[1121, 0.0]
+Non e presente
+[905, 0.0]
+Non e presente
+[1258, 0.0]
+Non e presente
+[574, 0.0]
+Non e presente
+[733, 0.0]
+Non e presente
+[130, 0.0]
+Non e presente
+[904, 0.0]
+Non e presente
+[1224, 0.0]
+Non e presente
+[1245, 0.0]
+Non e presente
+[349, 0.0]
+Non e presente
+[986, 0.0]
+Non e presente
+[1419, 0.0]
+Non e presente
+[916, 0.0]
+Non e presente
+[1152, 0.0]
+Non e presente
+[811, 0.0]
+Non e presente
+[1066, 0.0]
+Non e presente
+[745, 0.0]
+Non e presente
+[782, 0.0]
+Non e presente
+[862, 0.0]
+Non e presente
+[112, 0.0]
+Non e presente
+[1421, 0.0]
+Non e presente
+[1183, 0.0]
+Non e presente
+[1182, 0.0]
+Non e presente
+[854, 0.0]
+Non e presente
+[995, 0.0]
+Non e presente
+[454, 0.0]
+Non e presente
+[1029, 0.0]
+Non e presente
+[1071, 0.0]
+Non e presente
+[1446, 0.0]
+Non e presente
+[937, 0.0]
+Non e presente
+[587, 0.0]
+Non e presente
+[1022, 0.0]
+Non e presente
+[998, 0.0]
+Non e presente
+[1097, 0.0]
+Non e presente
+[990, 0.0]
+Non e presente
+[787, 0.0]
+Non e presente
+[982, 0.0]
+Non e presente
+[253, 0.0]
+Non e presente
+[532, 0.0]
+Non e presente
+[1166, 0.0]
+Non e presente
+[617, 0.0]
+Non e presente
+[1225, 0.0]
+Non e presente
+[726, 0.0]
+Non e presente
+[1518, 0.0]
+Non e presente
+[377, 0.0]
+Non e presente
+[853, 0.0]
+Non e presente
+[590, 0.0]
+Non e presente
+[556, 0.0]
+Non e presente
+[362, 0.0]
+Non e presente
+[1273, 0.0]
+Non e presente
+[440, 0.0]
+Non e presente
+[1401, 0.0]
+Non e presente
+[348, 0.0]
+Non e presente
+[1315, 0.0]
+Non e presente
+[308, 0.0]
+Non e presente
+[1297, 0.0]
+Non e presente
+[1285, 0.0]
+Non e presente
+[807, 0.0]
+Non e presente
+[681, 0.0]
+Non e presente
+[1001, 0.0]
+Non e presente
+[1291, 0.0]
+Non e presente
+[985, 0.0]
+Non e presente
+[860, 0.0]
+Non e presente
+[989, 0.0]
+Non e presente
+[1092, 0.0]
+Non e presente
+[1076, 0.0]
+Non e presente
+[1249, 0.0]
+Non e presente
+[933, 0.0]
+Non e presente
+[1428, 0.0]
+Non e presente
+[424, 0.0]
+Non e presente
+[1192, 0.0]
+Non e presente
+[1229, 0.0]
+Non e presente
+[545, 0.0]
+Non e presente
+[915, 0.0]
+Non e presente
+[1211, 0.0]
+Non e presente
+[1131, 0.0]
+Non e presente
+[1084, 0.0]
+Non e presente
+[991, 0.0]
+Non e presente
+[793, 0.0]
+Non e presente
+[351, 0.0]
+Non e presente
+[1263, 0.0]
+Non e presente
+[759, 0.0]
+Non e presente
+[1400, 0.0]
+Non e presente
+[256, 0.0]
+Non e presente
+[1172, 0.0]
+Non e presente
+[394, 0.0]
+Non e presente
+[1469, 0.0]
+Non e presente
+[533, 0.0]
+Non e presente
+[1425, 0.0]
+Non e presente
+[996, 0.0]
+Non e presente
+[1265, 0.0]
+Non e presente
+[803, 0.0]
+Non e presente
+[669, 0.0]
+Non e presente
+[714, 0.0]
+Non e presente
+[695, 0.0]
+Non e presente
+[1169, 0.0]
+Non e presente
+[1277, 0.0]
+Non e presente
+[718, 0.0]
+Non e presente
+[397, 0.0]
+Non e presente
+[958, 0.0]
+Non e presente
+[1184, 0.0]
+Non e presente
+[352, 0.0]
+Non e presente
+[103, 0.0]
+Non e presente
+[1404, 0.0]
+Non e presente
+[1480, 0.0]
+Non e presente
+[309, 0.0]
+Non e presente
+[967, 0.0]
+Non e presente
+[859, 0.0]
+Non e presente
+[947, 0.0]
+Non e presente
+[1451, 0.0]
+Non e presente
+[791, 0.0]
+Non e presente
+[1479, 0.0]
+Non e presente
+[555, 0.0]
+Non e presente
+[1274, 0.0]
+Non e presente
+[698, 0.0]
+Non e presente
+[835, 0.0]
+Non e presente
+[1283, 0.0]
+Non e presente
+[548, 0.0]
+Non e presente
+[667, 0.0]
+Non e presente
+[621, 0.0]
+Non e presente
+[1117, 0.0]
+Non e presente
+[767, 0.0]
+Non e presente
+[1143, 0.0]
+Non e presente
+[1195, 0.0]
+Non e presente
+[1180, 0.0]
+Non e presente
+[1540, 0.0]
+Non e presente
+[337, 0.0]
+Non e presente
+[1128, 0.0]
+Non e presente
+[954, 0.0]
+Non e presente
+[374, 0.0]
+Non e presente
+[906, 0.0]
+Non e presente
+[903, 0.0]
+Non e presente
+[1179, 0.0]
+Non e presente
+[1088, 0.0]
+Non e presente
+[534, 0.0]
+Non e presente
+[1000, 0.0]
+Non e presente
+[263, 0.0]
+Non e presente
+[798, 0.0]
+Non e presente
+[1337, 0.0]
+Non e presente
+[115, 0.0]
+Non e presente
+[1099, 0.0]
+Non e presente
+[1116, 0.0]
+Non e presente
+[983, 0.0]
+Non e presente
+[592, 0.0]
+Non e presente
+[1296, 0.0]
+Non e presente
+[1167, 0.0]
+Non e presente
+[1266, 0.0]
+Non e presente
+[1055, 0.0]
+Non e presente
+[1181, 0.0]
+Non e presente
+[1176, 0.0]
+Non e presente
+[593, 0.0]
+Non e presente
+[1165, 0.0]
+Non e presente
+[1085, 0.0]
+Non e presente
+[776, 0.0]
+Non e presente
+[1268, 0.0]
+Non e presente
+[964, 0.0]
+Non e presente
+[999, 0.0]
+Non e presente
+[1314, 0.0]
+Non e presente
+[35, 0.0]
+Non e presente
+[37, 0.0]
+Non e presente
+[1187, 0.0]
+Non e presente
+[889, 0.0]
+Non e presente
+[804, 0.0]
+Non e presente
+[1161, 0.0]
+Non e presente
+[848, 0.0]
+Non e presente
+[446, 0.0]
+Non e presente
+[536, 0.0]
+Non e presente
+[1111, 0.0]
+Non e presente
+[1426, 0.0]
+Non e presente
+[1015, 0.0]
+Non e presente
+[1503, 0.0]
+Non e presente
+[1124, 0.0]
+Non e presente
+[1439, 0.0]
+Non e presente
+[1100, 0.0]
+Non e presente
+[1435, 0.0]
+Non e presente
+[1437, 0.0]
+Non e presente
+[828, 0.0]
+Non e presente
+[1269, 0.0]
+Non e presente
+[766, 0.0]
+Non e presente
+[1171, 0.0]
+Non e presente
+[1471, 0.0]
+Non e presente
+[18, 0.0]
+Non e presente
+[1004, 0.0]
+Non e presente
+[1441, 0.0]
+Non e presente
+[1336, 0.0]
+Non e presente
+[1415, 0.0]
+Non e presente
+[1068, 0.0]
+Non e presente
+[1281, 0.0]
+Non e presente
+[1154, 0.0]
+Non e presente
+[353, 0.0]
+Non e presente
+[1056, 0.0]
+Non e presente
+[894, 0.0]
+Non e presente
+[938, 0.0]
+Non e presente
+[918, 0.0]
+Non e presente
+[1335, 0.0]
+Non e presente
+[1198, 0.0]
+Non e presente
+[885, 0.0]
+Non e presente
+[1288, 0.0]
+Non e presente
+[1193, 0.0]
+Non e presente
+[1145, 0.0]
+Non e presente
+[867, 0.0]
+Non e presente
+[1174, 0.0]
+Non e presente
+[1087, 0.0]
+Non e presente
+[1214, 0.0]
+Non e presente
+[1278, 0.0]
+Non e presente
+[390, 0.0]
+Non e presente
+[888, 0.0]
+Non e presente
+[1473, 0.0]
+Non e presente
+[335, 0.0]
+Non e presente
+[1141, 0.0]
+Non e presente
+[908, 0.0]
+Non e presente
+[1531, 0.0]
+Non e presente
+[691, 0.0]
+Non e presente
+[976, 0.0]
+Non e presente
+[1262, 0.0]
+Non e presente
+[1108, 0.0]
+Non e presente
+[914, 0.0]
+Non e presente
+[1271, 0.0]
+Non e presente
+[970, 0.0]
+Non e presente
+[1252, 0.0]
+Non e presente
+[901, 0.0]
+Non e presente
+[1483, 0.0]
+Non e presente
+[912, 0.0]
+Non e presente
+[1159, 0.0]
+Non e presente
+[870, 0.0]
+Non e presente
+[1475, 0.0]
+Non e presente
+[1282, 0.0]
+Non e presente
+[909, 0.0]
+Non e presente
+[341, 0.0]
+Non e presente
+[1148, 0.0]
+Non e presente
+[1227, 0.0]
+Non e presente
+[1105, 0.0]
+Non e presente
+[668, 0.0]
+Non e presente
+[1445, 0.0]
+Non e presente
+[1305, 0.0]
+Non e presente
+[1375, 0.0]
+Non e presente
+[1253, 0.0]
+Non e presente
+[1276, 0.0]
+Non e presente
+[1456, 0.0]
+Non e presente
+[1077, 0.0]
+Non e presente
+[1072, 0.0]
+Non e presente
+[34, 0.0]
+Non e presente
+[1298, 0.0]
+Non e presente
+[113, 0.0]
+Non e presente
+[1615, 0.0]
+Non e presente
+[1438, 0.0]
+Non e presente
+[883, 0.0]
+Non e presente
+[1082, 0.0]
+Non e presente
+[1151, 0.0]
+Non e presente
+[1413, 0.0]
+Non e presente
+[1247, 0.0]
+Non e presente
+[1202, 0.0]
+Non e presente
+[1379, 0.0]
+Non e presente
+[1246, 0.0]
+Non e presente
+[1173, 0.0]
+Non e presente
+[1255, 0.0]
+Non e presente
+[917, 0.0]
+Non e presente
+[1043, 0.0]
+Non e presente
+[438, 0.0]
+Non e presente
+[1280, 0.0]
+Non e presente
+[1522, 0.0]
+Non e presente
+[1200, 0.0]
+Non e presente
+[1002, 0.0]
+Non e presente
+[1114, 0.0]
+Non e presente
+[1024, 0.0]
+Non e presente
+[1031, 0.0]
+Non e presente
+[1462, 0.0]
+Non e presente
+[1250, 0.0]
+Non e presente
+[1094, 0.0]
+Non e presente
+[1177, 0.0]
+Non e presente
+[1003, 0.0]
+Non e presente
+[1038, 0.0]
+Non e presente
+[1499, 0.0]
+Non e presente
+[74, 0.0]
+Non e presente
+[359, 0.0]
+Non e presente
+[1075, 0.0]
+Non e presente
+[1409, 0.0]
+Non e presente
+[1213, 0.0]
+Non e presente
+[146, 0.0]
+Non e presente
+[1300, 0.0]
+Non e presente
+[899, 0.0]
+Non e presente
+[1553, 0.0]
+Non e presente
+[1449, 0.0]
+Non e presente
+[1270, 0.0]
+Non e presente
+[1376, 0.0]
+Non e presente
+[1468, 0.0]
+Non e presente
+[893, 0.0]
+Non e presente
+[1509, 0.0]
+Non e presente
+[1205, 0.0]
+Non e presente
+[1150, 0.0]
+Non e presente
+[267, 0.0]
+Non e presente
+[1560, 0.0]
+Non e presente
+[1517, 0.0]
+Non e presente
+[1279, 0.0]
+Non e presente
+[1062, 0.0]
+Non e presente
+[1529, 0.0]
+Non e presente
+[1530, 0.0]
+Non e presente
+[1264, 0.0]
+Non e presente
+[1412, 0.0]
+Non e presente
+[927, 0.0]
+Non e presente
+[594, 0.0]
+Non e presente
+[1313, 0.0]
+Non e presente
+[981, 0.0]
+Non e presente
+[1514, 0.0]
+Non e presente
+[1322, 0.0]
+Non e presente
+[75, 0.0]
+Non e presente
+[1440, 0.0]
+Non e presente
+[1423, 0.0]
+Non e presente
+[1081, 0.0]
+Non e presente
+[701, 0.0]
+Non e presente
+[437, 0.0]
+Non e presente
+[439, 0.0]
+Non e presente
+[1539, 0.0]
+Non e presente
+[1501, 0.0]
+Non e presente
+[757, 0.0]
+Non e presente
+[777, 0.0]
+Non e presente
+[1312, 0.0]
+Non e presente
+[1535, 0.0]
+Non e presente
+[1289, 0.0]
+Non e presente
+[851, 0.0]
+Non e presente
+[1474, 0.0]
+Non e presente
+[1459, 0.0]
+Non e presente
+[1212, 0.0]
+Non e presente
+[884, 0.0]
+Non e presente
+[626, 0.0]
+Non e presente
+[666, 0.0]
+Non e presente
+[1490, 0.0]
+Non e presente
+[911, 0.0]
+Non e presente
+[1495, 0.0]
+Non e presente
+[1353, 0.0]
+Non e presente
+[1454, 0.0]
+Non e presente
+[1378, 0.0]
+Non e presente
+[1261, 0.0]
+Non e presente
+[1487, 0.0]
+Non e presente
+[1299, 0.0]
+Non e presente
+[1190, 0.0]
+Non e presente
+[442, 0.0]
+Non e presente
+[104, 0.0]
+Non e presente
+[1466, 0.0]
+Non e presente
+[994, 0.0]
+Non e presente
+[861, 0.0]
+Non e presente
+[1397, 0.0]
+Non e presente
+[1620, 0.0]
+Non e presente
+[1102, 0.0]
+Non e presente
+[799, 0.0]
+Non e presente
+[935, 0.0]
+Non e presente
+[1368, 0.0]
+Non e presente
+[360, 0.0]
+Non e presente
+[1488, 0.0]
+Non e presente
+[850, 0.0]
+Non e presente
+[822, 0.0]
+Non e presente
+[1524, 0.0]
+Non e presente
+[1394, 0.0]
+Non e presente
+[1254, 0.0]
+Non e presente
+[858, 0.0]
+Non e presente
+[706, 0.0]
+Non e presente
+[1319, 0.0]
+Non e presente
+[1275, 0.0]
+Non e presente
+[1427, 0.0]
+Non e presente
+[920, 0.0]
+Non e presente
+[1470, 0.0]
+Non e presente
+[1555, 0.0]
+Non e presente
+[1223, 0.0]
+Non e presente
+[1388, 0.0]
+Non e presente
+[1346, 0.0]
+Non e presente
+[1393, 0.0]
+Non e presente
+[1380, 0.0]
+Non e presente
+[910, 0.0]
+Non e presente
+[1448, 0.0]
+Non e presente
+[1489, 0.0]
+Non e presente
+[1516, 0.0]
+Non e presente
+[1589, 0.0]
+Non e presente
+[1356, 0.0]
+Non e presente
+[1558, 0.0]
+Non e presente
+[1351, 0.0]
+Non e presente
+[1442, 0.0]
+Non e presente
+[1512, 0.0]
+Non e presente
+[1434, 0.0]
+Non e presente
+[1406, 0.0]
+Non e presente
+[1287, 0.0]
+Non e presente
+[1545, 0.0]
+Non e presente
+[1405, 0.0]
+Non e presente
+[1216, 0.0]
+Non e presente
+[1186, 0.0]
+Non e presente
+[1162, 0.0]
+Non e presente
+[1344, 0.0]
+Non e presente
+[1496, 0.0]
+Non e presente
+[1301, 0.0]
+Non e presente
+[1316, 0.0]
+Non e presente
+[1549, 0.0]
+Non e presente
+[1554, 0.0]
+Non e presente
+[1578, 0.0]
+Non e presente
+[1585, 0.0]
+Non e presente
+[1338, 0.0]
+Non e presente
+[1317, 0.0]
+Non e presente
+[788, 0.0]
+Non e presente
+[1382, 0.0]
+Non e presente
+[1416, 0.0]
+Non e presente
+[784, 0.0]
+Non e presente
+[1511, 0.0]
+Non e presente
+[1395, 0.0]
+Non e presente
+[361, 0.0]
+Non e presente
+[1242, 0.0]
+Non e presente
+[1403, 0.0]
+Non e presente
+[1422, 0.0]
+Non e presente
+[913, 0.0]
+Non e presente
+[1384, 0.0]
+Non e presente
+[1387, 0.0]
+Non e presente
+[1391, 0.0]
+Non e presente
+[1552, 0.0]
+Non e presente
+[1083, 0.0]
+Non e presente
+[1381, 0.0]
+Non e presente
+[1257, 0.0]
+Non e presente
+[1592, 0.0]
+Non e presente
+[1424, 0.0]
+Non e presente
+[247, 0.0]
+Non e presente
+[1260, 0.0]
+Non e presente
+[1333, 0.0]
+Non e presente
+[314, 0.0]
+Non e presente
+[1369, 0.0]
+Non e presente
+[1402, 0.0]
+Non e presente
+[1484, 0.0]
+Non e presente
+[1591, 0.0]
+Non e presente
+[1408, 0.0]
+Non e presente
+[1164, 0.0]
+Non e presente
+[598, 0.0]
+Non e presente
+[1506, 0.0]
+Non e presente
+[839, 0.0]
+Non e presente
+[1324, 0.0]
+Non e presente
+[1628, 0.0]
+Non e presente
+[119, 0.0]
+Non e presente
+[1370, 0.0]
+Non e presente
