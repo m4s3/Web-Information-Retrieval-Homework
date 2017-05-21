@@ -83,7 +83,7 @@ def check_start(file1,file2 ):
 		
 	
 	
-check_start("/home/daemonn/Desktop/Uni/WIR/hw2/out_2.txt","/home/daemonn/Desktop/Uni/WIR/hw2/parte2.txt")
+check_start("/home/daemonn/Desktop/Uni/WIR/hw2/fin_out.txt","/home/daemonn/Desktop/Uni/WIR/hw2/parte3.txt")
 			
 			
 		
