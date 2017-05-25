@@ -1,10 +1,4 @@
-'''
-1)computare il  topic specific page rank per ogni categoria che viene rappresentata dalla riga del file di input 5 righe 5 categorie
-1.1)ogni movie di una categoria ha peso 1 riusare il topic fatto nel 2
-2)salvarli su un file per la parte online
 
-
-'''
 import sys
 import csv
 from WebIR_HW_2_part_2 import tspr

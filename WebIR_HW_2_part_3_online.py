@@ -10,7 +10,7 @@ if(len(sys.argv)==2):
 		fin=open("./datasets/out_categ_"+str(index+1)+".txt",'r')
 		user_preference=user_vector[index]
 		prs[index+1]={}
-		for line in fin:          #{1:{2:3},2:{3:2}}
+		for line in fin:
 			row=line.split(",")
 			prs[index+1][int(row[0])]=user_preference/tot_pref*float(row[1])
 	final_pr={}

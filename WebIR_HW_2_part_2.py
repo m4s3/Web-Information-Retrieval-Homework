@@ -10,13 +10,17 @@ epsilon = 10**-6
 
 ########################################################################
 
-def create_initial_pagerank_vector(graph):
+def create_initial_pagerank_vector(graph,topic,len_topic):
 	page_rank_vector = {}
-	num_nodes = graph.number_of_nodes()
-	default_pageRank_value = 1./num_nodes
+	default_pageRank_value = 1./len_topic
+	num_nodes=graph.number_of_nodes()
 	
 	for node_id in range(1, num_nodes+1):
-		page_rank_vector[node_id] = default_pageRank_value
+		#page_rank_vector[node_id] = 1/num_nodes this line was used for the implementation without topic
+		if(node_id in topic):
+			page_rank_vector[node_id] = default_pageRank_value
+		else:
+			page_rank_vector[node_id] = 0.
 		
 	return page_rank_vector
 ########################################################################
@@ -86,8 +90,8 @@ def tspr(input_graph_weighted_adjacency_list_file_name,topic):
 	for elem in input_file_csv_reader:
 		g.add_edge(int(elem[0]),int(elem[1]),weight = float(elem[2]))
 	input_file.close()
-	
-	previous_page_rank_vector = create_initial_pagerank_vector(g)
+	card_topic=len(topic.keys())
+	previous_page_rank_vector = create_initial_pagerank_vector(g,topic,card_topic)
 	page_rank_vector = {}
 	num_iterations = 0
 	while True:
@@ -140,5 +144,3 @@ if(len(sys.argv)==4):
 			print(str(elem[1])+","+str(elem[0]))
 
 ########################################################################
-
-		
